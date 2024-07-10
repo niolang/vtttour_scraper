@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <extensions>
+   <name>Bois des Egay&#232;res</name>
+   <orURLGPX>http://www.singletrack.fr/gpx/trace_1181.gpx</orURLGPX>
+   <orURL>http://www.singletrack.fr/sentiers/Bois-des-Egayeres,1181.html</orURL>
+   <src>SingleTrack</src>
+   <orID>1181</orID>
+   <dur>-</dur>
+   <typ>Sentier</typ>
+   <len>1,5</len>
+   <DGrad>125</DGrad>
+   <UpGrad>50</UpGrad>
+   <DDif>T3</DDif>
+   <UpDif>-</UpDif>
+   <orDDif>-</orDDif>
+   <orUpDif>-</orUpDif>
+   <Exp>E1</Exp>
+   <startEle>1473</startEle>
+   <endEle>1392</endEle>
+   <maxEle>1473</maxEle>
+   <minEle>1380</minEle>
+   <ud>-</ud>
+   <ratio>85</ratio>
+   <forbid></forbid>
+   <bound>5.8630238,44.705605,5.871324,44.71484</bound>
+   <nbPtsPerKM>12,2</nbPtsPerKM>
+   <simpleBBOX>true</simpleBBOX>
+   <geoportalFxxNeeded>true</geoportalFxxNeeded>
+   <swissNeeded>true</swissNeeded>
+   <users></users>
+   <origin>-</origin>
+   <layer>singletrack_sentiers</layer>
+  </extensions>
+  <trkseg>   <trkpt lat="44.705605487" lon="5.863650325">
+    <ele>1473.000000</ele>
+   </trkpt>
+   <trkpt lat="44.706647533" lon="5.864589938">
+    <ele>1441.000000</ele>
+   </trkpt>
+   <trkpt lat="44.706575668" lon="5.864224533">
+    <ele>1443.000000</ele>
+   </trkpt>
+   <trkpt lat="44.707438051" lon="5.863911328">
+    <ele>1439.000000</ele>
+   </trkpt>
+   <trkpt lat="44.708659759" lon="5.863545923">
+    <ele>1420.000000</ele>
+   </trkpt>
+   <trkpt lat="44.709306546" lon="5.863754726">
+    <ele>1407.000000</ele>
+   </trkpt>
+   <trkpt lat="44.709917401" lon="5.863023916">
+    <ele>1412.000000</ele>
+   </trkpt>
+   <trkpt lat="44.710528255" lon="5.863284920">
+    <ele>1396.000000</ele>
+   </trkpt>
+   <trkpt lat="44.710887581" lon="5.864485536">
+    <ele>1380.000000</ele>
+   </trkpt>
+   <trkpt lat="44.711067244" lon="5.865216347">
+    <ele>1377.000000</ele>
+   </trkpt>
+   <trkpt lat="44.711390638" lon="5.866051558">
+    <ele>1378.000000</ele>
+   </trkpt>
+   <trkpt lat="44.711678099" lon="5.866416963">
+    <ele>1382.000000</ele>
+   </trkpt>
+   <trkpt lat="44.711714031" lon="5.866834569">
+    <ele>1381.000000</ele>
+   </trkpt>
+   <trkpt lat="44.712324886" lon="5.868035186">
+    <ele>1386.000000</ele>
+   </trkpt>
+   <trkpt lat="44.713151336" lon="5.869549007">
+    <ele>1389.000000</ele>
+   </trkpt>
+   <trkpt lat="44.713510662" lon="5.869862212">
+    <ele>1394.000000</ele>
+   </trkpt>
+   <trkpt lat="44.713798123" lon="5.870801825">
+    <ele>1395.000000</ele>
+   </trkpt>
+   <trkpt lat="44.714840168" lon="5.871323832">
+    <ele>1398.000000</ele>
+   </trkpt>
+  </trkseg>
+</trk>
+</gpx>

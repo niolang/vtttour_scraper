@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-29T07:52:14Z</time>
+    <bounds maxlat="43.343686563894153" maxlon="5.695153847336769" minlat="43.341606594622135" minlon="5.692529305815697" />
+  </metadata>
+
+  <rte>
+    <name>Variante descente crête de la Lare</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.343686563894153" lon="5.692529305815697">
+      <ele>796.66015625</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare</name>
+      <cmt>Variante descente crête de la Lare</cmt>
+      <desc>Variante descente crête de la Lare</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343683965504169" lon="5.692586805671454">
+      <ele>797.01171875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-1</name>
+      <cmt>Variante descente crête de la Lare-1</cmt>
+      <desc>Variante descente crête de la Lare-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343555135652423" lon="5.692602228373289">
+      <ele>797.24609375</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-2</name>
+      <cmt>Variante descente crête de la Lare-2</cmt>
+      <desc>Variante descente crête de la Lare-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343496043235064" lon="5.69266090169549">
+      <ele>796.1875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-3</name>
+      <cmt>Variante descente crête de la Lare-3</cmt>
+      <desc>Variante descente crête de la Lare-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343419348821044" lon="5.692690070718527">
+      <ele>794.578125</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-4</name>
+      <cmt>Variante descente crête de la Lare-4</cmt>
+      <desc>Variante descente crête de la Lare-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343218769878149" lon="5.692756287753582">
+      <ele>790.0625</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-5</name>
+      <cmt>Variante descente crête de la Lare-5</cmt>
+      <desc>Variante descente crête de la Lare-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343110475689173" lon="5.692619578912854">
+      <ele>789.546875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-6</name>
+      <cmt>Variante descente crête de la Lare-6</cmt>
+      <desc>Variante descente crête de la Lare-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342975024133921" lon="5.692551685497165">
+      <ele>787.15625</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-7</name>
+      <cmt>Variante descente crête de la Lare-7</cmt>
+      <desc>Variante descente crête de la Lare-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342649890109897" lon="5.692982012405992">
+      <ele>770.44140625</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-8</name>
+      <cmt>Variante descente crête de la Lare-8</cmt>
+      <desc>Variante descente crête de la Lare-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342587612569332" lon="5.692987209185958">
+      <ele>768.30859375</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-9</name>
+      <cmt>Variante descente crête de la Lare-9</cmt>
+      <desc>Variante descente crête de la Lare-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342464817687869" lon="5.693114278838038">
+      <ele>761.93359375</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-10</name>
+      <cmt>Variante descente crête de la Lare-10</cmt>
+      <desc>Variante descente crête de la Lare-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342299945652485" lon="5.693385768681765">
+      <ele>750.99609375</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-11</name>
+      <cmt>Variante descente crête de la Lare-11</cmt>
+      <desc>Variante descente crête de la Lare-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342283852398396" lon="5.693482579663396">
+      <ele>748.6015625</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-12</name>
+      <cmt>Variante descente crête de la Lare-12</cmt>
+      <desc>Variante descente crête de la Lare-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342218641191721" lon="5.693672681227326">
+      <ele>742.60546875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-13</name>
+      <cmt>Variante descente crête de la Lare-13</cmt>
+      <desc>Variante descente crête de la Lare-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34207447245717" lon="5.69370947778225">
+      <ele>736.48046875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-14</name>
+      <cmt>Variante descente crête de la Lare-14</cmt>
+      <desc>Variante descente crête de la Lare-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342051170766354" lon="5.693834284320474">
+      <ele>733.29296875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-15</name>
+      <cmt>Variante descente crête de la Lare-15</cmt>
+      <desc>Variante descente crête de la Lare-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342010267078876" lon="5.69404081441462">
+      <ele>728.02734375</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-16</name>
+      <cmt>Variante descente crête de la Lare-16</cmt>
+      <desc>Variante descente crête de la Lare-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341869199648499" lon="5.694244243204594">
+      <ele>719.3203125</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-17</name>
+      <cmt>Variante descente crête de la Lare-17</cmt>
+      <desc>Variante descente crête de la Lare-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341797199100256" lon="5.694313058629632">
+      <ele>715.7578125</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-18</name>
+      <cmt>Variante descente crête de la Lare-18</cmt>
+      <desc>Variante descente crête de la Lare-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341738861054182" lon="5.694745564833283">
+      <ele>706.07421875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-19</name>
+      <cmt>Variante descente crête de la Lare-19</cmt>
+      <desc>Variante descente crête de la Lare-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341711452230811" lon="5.69488856010139">
+      <ele>702.67578125</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-20</name>
+      <cmt>Variante descente crête de la Lare-20</cmt>
+      <desc>Variante descente crête de la Lare-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.3416239451617" lon="5.695043792948127">
+      <ele>697.48046875</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-21</name>
+      <cmt>Variante descente crête de la Lare-21</cmt>
+      <desc>Variante descente crête de la Lare-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341606594622135" lon="5.695153847336769">
+      <ele>695.2578125</ele>
+      <time>2016-03-29T07:49:51Z</time>
+      <name>Variante descente crête de la Lare-22</name>
+      <cmt>Variante descente crête de la Lare-22</cmt>
+      <desc>Variante descente crête de la Lare-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-01-03T18:02:25Z</time>
+    <bounds maxlat="43.420391036197543" maxlon="5.649659894406796" minlat="43.408219255506992" minlon="5.642304606735706" />
+  </metadata>
+
+  <rte>
+    <name>La Plaine - Star wars II  variante 3</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.408219255506992" lon="5.642304606735706">
+      <ele>487.79296875</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante1</name>
+      <cmt>La Plaine - Star wars II  variante</cmt>
+      <desc>La Plaine - Star wars II  variante</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410228062421083" lon="5.643662307411432">
+      <ele>468.8125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1100</name>
+      <cmt>La Plaine - Star wars II  variante-1</cmt>
+      <desc>La Plaine - Star wars II  variante-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.4120714943856" lon="5.644995868206024">
+      <ele>438.26171875</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-212</name>
+      <cmt>La Plaine - Star wars II  variante-2</cmt>
+      <desc>La Plaine - Star wars II  variante-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412293531000614" lon="5.644696718081832">
+      <ele>433.37109375</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-310</name>
+      <cmt>La Plaine - Star wars II  variante-3</cmt>
+      <desc>La Plaine - Star wars II  variante-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412927789613605" lon="5.644494881853461">
+      <ele>424.27734375</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-410</name>
+      <cmt>La Plaine - Star wars II  variante-4</cmt>
+      <desc>La Plaine - Star wars II  variante-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.413415448740125" lon="5.644998382776976">
+      <ele>417.51953125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-510</name>
+      <cmt>La Plaine - Star wars II  variante-5</cmt>
+      <desc>La Plaine - Star wars II  variante-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414612049236894" lon="5.645217150449753">
+      <ele>404.71875</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-610</name>
+      <cmt>La Plaine - Star wars II  variante-6</cmt>
+      <desc>La Plaine - Star wars II  variante-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.41489234007895" lon="5.645572962239385">
+      <ele>402.953125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-710</name>
+      <cmt>La Plaine - Star wars II  variante-7</cmt>
+      <desc>La Plaine - Star wars II  variante-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414980014786124" lon="5.645838500931859">
+      <ele>401.55078125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-810</name>
+      <cmt>La Plaine - Star wars II  variante-8</cmt>
+      <desc>La Plaine - Star wars II  variante-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415548894554377" lon="5.64699319191277">
+      <ele>390.5703125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-910</name>
+      <cmt>La Plaine - Star wars II  variante-9</cmt>
+      <desc>La Plaine - Star wars II  variante-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.416238809004426" lon="5.647684028372169">
+      <ele>380.26953125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1010</name>
+      <cmt>La Plaine - Star wars II  variante-10</cmt>
+      <desc>La Plaine - Star wars II  variante-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.416685815900564" lon="5.647910423576832">
+      <ele>374.68359375</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1110</name>
+      <cmt>La Plaine - Star wars II  variante-11</cmt>
+      <desc>La Plaine - Star wars II  variante-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.417030060663819" lon="5.648375200107694">
+      <ele>369.5</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1210</name>
+      <cmt>La Plaine - Star wars II  variante-12</cmt>
+      <desc>La Plaine - Star wars II  variante-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.418135968968272" lon="5.648572510108352">
+      <ele>354.6875</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1310</name>
+      <cmt>La Plaine - Star wars II  variante-13</cmt>
+      <desc>La Plaine - Star wars II  variante-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.419173816218972" lon="5.649357810616493">
+      <ele>345.3125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1410</name>
+      <cmt>La Plaine - Star wars II  variante-14</cmt>
+      <desc>La Plaine - Star wars II  variante-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.420391036197543" lon="5.649659894406796">
+      <ele>339.20703125</ele>
+      <time>2016-01-03T18:02:04Z</time>
+      <name>La Plaine - Star wars II  variante-1510</name>
+      <cmt>La Plaine - Star wars II  variante-15</cmt>
+      <desc>La Plaine - Star wars II  variante-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

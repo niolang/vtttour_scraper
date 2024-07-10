@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-07-23T16:05:00Z</time>
+    <bounds maxlat="45.31372063793242" maxlon="6.11054202541709" minlat="45.301090199500322" minlon="6.104050073772669" />
+  </metadata>
+
+  <trk>
+    <name>Traversée Crêt du Tambour &gt; Petite Valoire</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.31372063793242" lon="6.104762786999345" />
+      <trkpt lat="45.313370358198881" lon="6.105025978758931" />
+      <trkpt lat="45.312076779082417" lon="6.105980006977916" />
+      <trkpt lat="45.311699425801635" lon="6.106506390497088" />
+      <trkpt lat="45.311187459155917" lon="6.107032774016261" />
+      <trkpt lat="45.310486732050776" lon="6.107328906655312" />
+      <trkpt lat="45.310271149501204" lon="6.108118481934071" />
+      <trkpt lat="45.309812994673848" lon="6.108414530754089" />
+      <trkpt lat="45.308905737474561" lon="6.109708528965712" />
+      <trkpt lat="45.30813317745924" lon="6.109686652198434" />
+      <trkpt lat="45.308402655646205" lon="6.110103316605091" />
+      <trkpt lat="45.30813317745924" lon="6.110169114544988" />
+      <trkpt lat="45.307953553274274" lon="6.11032267101109" />
+      <trkpt lat="45.30759422108531" lon="6.1103446315974" />
+      <trkpt lat="45.307162972167134" lon="6.110498104244471" />
+      <trkpt lat="45.306516224518418" lon="6.11054202541709" />
+      <trkpt lat="45.305977184325457" lon="6.109862085431814" />
+      <trkpt lat="45.305635873228312" lon="6.109445337206125" />
+      <trkpt lat="45.305384332314134" lon="6.108787357807159" />
+      <trkpt lat="45.305060958489776" lon="6.108326772227883" />
+      <trkpt lat="45.304881250485778" lon="6.108655761927366" />
+      <trkpt lat="45.304683689028025" lon="6.108480328693986" />
+      <trkpt lat="45.304521918296814" lon="6.108962874859572" />
+      <trkpt lat="45.304054794833064" lon="6.109291864559054" />
+      <trkpt lat="45.303785316646099" lon="6.108568087220192" />
+      <trkpt lat="45.303408047184348" lon="6.107295965775847" />
+      <trkpt lat="45.303030777722597" lon="6.106791459023953" />
+      <trkpt lat="45.303012756630778" lon="6.106133479624987" />
+      <trkpt lat="45.302545633167028" lon="6.1058702878654" />
+      <trkpt lat="45.302132405340672" lon="6.10532202757895" />
+      <trkpt lat="45.301287760958076" lon="6.105168638750911" />
+      <trkpt lat="45.301162032410502" lon="6.104576457291842" />
+      <trkpt lat="45.301090199500322" lon="6.104050073772669" />
+    </trkseg>
+  </trk>
+
+</gpx>

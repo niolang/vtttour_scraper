@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <extensions>
+   <name>Bois des Pinatelous</name>
+   <orURLGPX>http://www.singletrack.fr/gpx/trace_1182.gpx</orURLGPX>
+   <orURL>http://www.singletrack.fr/sentiers/Bois-des-Pinatelous,1182.html</orURL>
+   <src>SingleTrack</src>
+   <orID>1182</orID>
+   <dur>-</dur>
+   <typ>Sentier</typ>
+   <len>1,7</len>
+   <DGrad>215</DGrad>
+   <UpGrad>20</UpGrad>
+   <DDif>T2</DDif>
+   <UpDif>-</UpDif>
+   <orDDif>-</orDDif>
+   <orUpDif>-</orUpDif>
+   <Exp>E1</Exp>
+   <startEle>1499</startEle>
+   <endEle>1307</endEle>
+   <maxEle>1501</maxEle>
+   <minEle>1307</minEle>
+   <ud>-</ud>
+   <ratio>120</ratio>
+   <forbid></forbid>
+   <bound>5.8644333,44.717247,5.8759437,44.722878</bound>
+   <nbPtsPerKM>12,7</nbPtsPerKM>
+   <simpleBBOX>true</simpleBBOX>
+   <geoportalFxxNeeded>true</geoportalFxxNeeded>
+   <swissNeeded>true</swissNeeded>
+   <users></users>
+   <origin>-</origin>
+   <layer>singletrack_sentiers</layer>
+  </extensions>
+  <trkseg>   <trkpt lat="44.717247653" lon="5.864720440">
+    <ele>1499.000000</ele>
+   </trkpt>
+   <trkpt lat="44.717786643" lon="5.864433336">
+    <ele>1505.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718271733" lon="5.864903142">
+    <ele>1498.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718936486" lon="5.865346849">
+    <ele>1498.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718936486" lon="5.865868856">
+    <ele>1494.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718361564" lon="5.867565380">
+    <ele>1484.000000</ele>
+   </trkpt>
+   <trkpt lat="44.717571047" lon="5.869914412">
+    <ele>1469.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718128002" lon="5.870854026">
+    <ele>1444.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718487329" lon="5.869914412">
+    <ele>1462.000000</ele>
+   </trkpt>
+   <trkpt lat="44.718828688" lon="5.869549007">
+    <ele>1462.000000</ele>
+   </trkpt>
+   <trkpt lat="44.719924633" lon="5.869810011">
+    <ele>1436.000000</ele>
+   </trkpt>
+   <trkpt lat="44.719870734" lon="5.870566922">
+    <ele>1418.000000</ele>
+   </trkpt>
+   <trkpt lat="44.719529374" lon="5.871010628">
+    <ele>1409.000000</ele>
+   </trkpt>
+   <trkpt lat="44.719852768" lon="5.872106843">
+    <ele>1389.000000</ele>
+   </trkpt>
+   <trkpt lat="44.720158195" lon="5.872211245">
+    <ele>1370.000000</ele>
+   </trkpt>
+   <trkpt lat="44.720337858" lon="5.872837653">
+    <ele>1357.000000</ele>
+   </trkpt>
+   <trkpt lat="44.721056510" lon="5.873411861">
+    <ele>1330.000000</ele>
+   </trkpt>
+   <trkpt lat="44.721505668" lon="5.874220973">
+    <ele>1313.000000</ele>
+   </trkpt>
+   <trkpt lat="44.721829061" lon="5.875421589">
+    <ele>1296.000000</ele>
+   </trkpt>
+   <trkpt lat="44.722421949" lon="5.875839195">
+    <ele>1292.000000</ele>
+   </trkpt>
+   <trkpt lat="44.722875777" lon="5.875943597">
+    <ele>1304.000000</ele>
+   </trkpt>
+  </trkseg>
+</trk>
+</gpx>

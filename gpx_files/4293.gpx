@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-08-07T07:41:04Z</time>
+    <bounds maxlat="45.172507278621197" maxlon="6.651281397789717" minlat="45.150832766667008" minlon="6.636867206543684" />
+  </metadata>
+
+  <trk>
+    <name>Jonction Le Lavoir Valfrejus</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.150832766667008" lon="6.636867206543684" />
+      <trkpt lat="45.152611406520009" lon="6.638270923867822" />
+      <trkpt lat="45.153240216895938" lon="6.639937832951546" />
+      <trkpt lat="45.153886964544654" lon="6.640310660004616" />
+      <trkpt lat="45.154677545651793" lon="6.640508053824306" />
+      <trkpt lat="45.154228359460831" lon="6.640946678817272" />
+      <trkpt lat="45.154767315834761" lon="6.641034437343478" />
+      <trkpt lat="45.155054815113544" lon="6.641231831163168" />
+      <trkpt lat="45.156042957678437" lon="6.641166033223271" />
+      <trkpt lat="45.156599935144186" lon="6.641473062336445" />
+      <trkpt lat="45.158216888085008" lon="6.64215300232172" />
+      <trkpt lat="45.159726049751043" lon="6.643512882292271" />
+      <trkpt lat="45.161037566140294" lon="6.644346294924617" />
+      <trkpt lat="45.16207960434258" lon="6.644587526097894" />
+      <trkpt lat="45.162298791110516" lon="6.645206026732922" />
+      <trkpt lat="45.162640186026692" lon="6.645535016432405" />
+      <trkpt lat="45.162747977301478" lon="6.645798208191991" />
+      <trkpt lat="45.164850074797869" lon="6.64619299583137" />
+      <trkpt lat="45.166035778820515" lon="6.646872851997614" />
+      <trkpt lat="45.167041942477226" lon="6.646916773170233" />
+      <trkpt lat="45.166862234473228" lon="6.647092206403613" />
+      <trkpt lat="45.167095838114619" lon="6.647421196103096" />
+      <trkpt lat="45.166898192837834" lon="6.64753083139658" />
+      <trkpt lat="45.167922293767333" lon="6.648232731968164" />
+      <trkpt lat="45.168946394696832" lon="6.649044267833233" />
+      <trkpt lat="45.170081807300448" lon="6.64891267195344" />
+      <trkpt lat="45.17015372402966" lon="6.649219701066613" />
+      <trkpt lat="45.170602826401591" lon="6.649307459592819" />
+      <trkpt lat="45.171968322247267" lon="6.650294428691268" />
+      <trkpt lat="45.172363528981805" lon="6.650733053684235" />
+      <trkpt lat="45.172507278621197" lon="6.651281397789717" />
+      <trkpt lat="45.172507278621197" lon="6.651281397789717" />
+    </trkseg>
+  </trk>
+
+</gpx>

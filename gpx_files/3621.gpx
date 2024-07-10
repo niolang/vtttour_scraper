@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-02-06T20:35:45Z</time>
+    <bounds maxlat="43.5024163" maxlon="6.8851414" minlat="43.4814814" minlon="6.8816961"/>
+  </metadata>
+
+  <trk>
+    <name>3termes</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.5024163" lon="6.8838886">
+        <ele>294.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.5016258" lon="6.8851414">
+        <ele>290.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.5007276" lon="6.8844106">
+        <ele>259.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.5000448" lon="6.8845672">
+        <ele>256.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4980685" lon="6.8844106">
+        <ele>212.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4973139" lon="6.8842018">
+        <ele>199.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4953017" lon="6.8828968">
+        <ele>154.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4937207" lon="6.8824270">
+        <ele>136.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4924960" lon="6.8824792">
+        <ele>131.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4914180" lon="6.8827402">
+        <ele>132.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4898729" lon="6.8818006">
+        <ele>114.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4887949" lon="6.8822704">
+        <ele>114.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4869990" lon="6.8816961">
+        <ele>111.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4858530" lon="6.8819572">
+        <ele>107.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4847750" lon="6.8829490">
+        <ele>107.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4815173" lon="6.8843062">
+        <ele>93.0000000</ele>
+      </trkpt>
+      <trkpt lat="43.4814814" lon="6.8843584">
+        <ele>93.0000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

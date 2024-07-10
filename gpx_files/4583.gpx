@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-10-06T20:53:50Z</time>
+    <bounds maxlat="45.179145326837897" maxlon="6.036539794877172" minlat="45.17695345915854" minlon="6.029345858842135" />
+  </metadata>
+
+  <trk>
+    <name>Sentier Le Gay &gt; Articol</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.178229017183185" lon="6.029345858842135" />
+      <trkpt lat="45.178211079910398" lon="6.030486384406686" />
+      <trkpt lat="45.177510352805257" lon="6.031166240572929" />
+      <trkpt lat="45.177205000072718" lon="6.032065534964204" />
+      <trkpt lat="45.177186978980899" lon="6.03272351436317" />
+      <trkpt lat="45.17695345915854" lon="6.032942868769169" />
+      <trkpt lat="45.177779914811254" lon="6.033776281401515" />
+      <trkpt lat="45.179145326837897" lon="6.034346502274275" />
+      <trkpt lat="45.178390704095364" lon="6.034872885793448" />
+      <trkpt lat="45.177707998082042" lon="6.035267673432827" />
+      <trkpt lat="45.177690060809255" lon="6.036188928410411" />
+      <trkpt lat="45.177941601723433" lon="6.036539794877172" />
+      <trkpt lat="45.177941601723433" lon="6.036539794877172" />
+    </trkseg>
+  </trk>
+
+</gpx>

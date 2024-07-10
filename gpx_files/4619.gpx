@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx version="1.1" creator="QMapShack 1.14.1 http://www.qlandkarte.org/" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:tp1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1">
+ <metadata>
+  <name>Pré Raymond (1171 - 1218)</name>
+  <time>2020-10-02T12:01:58.000Z</time>
+ </metadata>
+ <trk>
+  <name>Pré Raymond (1171 - 1218)</name>
+  <desc>&lt;p>Heure de départ: 09:06 22 sept. 2020&lt;br/>Heure d'arrivée: 14:54 22 sept. 2020&lt;br/>Distance: 32,6 km (05:47)&lt;br/>Temps déplacement: 04:05&lt;br/>Vitesse moyenne: 5,62 km/h&lt;br/>Vitesse moyenne mouv.: 7,97 km/h&lt;br/>Vitesse Max.: 38,84 km/h&lt;br/>Altitude minimale: 216 m&lt;br/>Altitude maximale: 1381 m&lt;br/>Vitesse de montée: 818,3 m/h&lt;br/>Vitesse de descente: -1360,1 m/h&lt;br/>Gain d'altitude: 2781 m&lt;br/>Perte d'altitude: -2832 m&lt;br/>Temps de montée: 03:23&lt;br/>Temps de descente: 02:04&lt;br/>&lt;/p>&lt;hr align="center" width="480" style="height: 2px; width: 517px"/></desc>
+  <type>Indéfini</type>
+  <extensions>
+   <ql:key>5b5747e5c2280a18d9583199ecb32744</ql:key>
+   <ql:flags>1</ql:flags>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkBlue</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+  </extensions>
+  <trkseg>
+   <trkpt lon="5.89139230" lat="45.20869070">
+    <ele>907</ele>
+    <time>2020-09-22T12:11:07.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89120250" lat="45.20881940">
+    <ele>902</ele>
+    <time>2020-09-22T12:11:38.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89100940" lat="45.20896090">
+    <ele>898</ele>
+    <time>2020-09-22T12:11:48.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89088010" lat="45.20914310">
+    <ele>894</ele>
+    <time>2020-09-22T12:12:00.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89080120" lat="45.20931980">
+    <ele>892</ele>
+    <time>2020-09-22T12:12:06.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89060350" lat="45.20946690">
+    <ele>889</ele>
+    <time>2020-09-22T12:12:12.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89036630" lat="45.20958660">
+    <ele>888</ele>
+    <time>2020-09-22T12:12:18.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.89012710" lat="45.20966200">
+    <ele>886</ele>
+    <time>2020-09-22T12:12:23.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88986260" lat="45.20977000">
+    <ele>886</ele>
+    <time>2020-09-22T12:12:30.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88958820" lat="45.20979590">
+    <ele>885</ele>
+    <time>2020-09-22T12:12:42.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88931210" lat="45.20995450">
+    <ele>885</ele>
+    <time>2020-09-22T12:12:48.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88912700" lat="45.21010180">
+    <ele>884</ele>
+    <time>2020-09-22T12:12:56.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88902990" lat="45.21029050">
+    <ele>882</ele>
+    <time>2020-09-22T12:13:32.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88897390" lat="45.21049350">
+    <ele>876</ele>
+    <time>2020-09-22T12:13:40.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88894870" lat="45.21069700">
+    <ele>870</ele>
+    <time>2020-09-22T12:13:47.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88897330" lat="45.21088680">
+    <ele>864</ele>
+    <time>2020-09-22T12:13:54.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88892980" lat="45.21107220">
+    <ele>859</ele>
+    <time>2020-09-22T12:14:44.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88888690" lat="45.21125200">
+    <ele>857</ele>
+    <time>2020-09-22T12:14:51.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88882790" lat="45.21144620">
+    <ele>855</ele>
+    <time>2020-09-22T12:14:56.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88871260" lat="45.21162880">
+    <ele>854</ele>
+    <time>2020-09-22T12:14:59.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88856930" lat="45.21179690">
+    <ele>854</ele>
+    <time>2020-09-22T12:15:06.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88850800" lat="45.21201580">
+    <ele>855</ele>
+    <time>2020-09-22T12:15:12.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88842310" lat="45.21219040">
+    <ele>855</ele>
+    <time>2020-09-22T12:15:19.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88843710" lat="45.21238930">
+    <ele>854</ele>
+    <time>2020-09-22T12:15:30.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88851160" lat="45.21257620">
+    <ele>853</ele>
+    <time>2020-09-22T12:15:40.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88846240" lat="45.21276830">
+    <ele>852</ele>
+    <time>2020-09-22T12:15:56.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88845870" lat="45.21295780">
+    <ele>851</ele>
+    <time>2020-09-22T12:16:07.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88840540" lat="45.21314560">
+    <ele>851</ele>
+    <time>2020-09-22T12:16:18.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88842020" lat="45.21333230">
+    <ele>852</ele>
+    <time>2020-09-22T12:16:27.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88829840" lat="45.21349970">
+    <ele>854</ele>
+    <time>2020-09-22T12:17:04.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88819360" lat="45.21366560">
+    <ele>854</ele>
+    <time>2020-09-22T12:17:10.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88811810" lat="45.21385420">
+    <ele>852</ele>
+    <time>2020-09-22T12:17:18.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88814120" lat="45.21406630">
+    <ele>845</ele>
+    <time>2020-09-22T12:17:24.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88815810" lat="45.21425550">
+    <ele>837</ele>
+    <time>2020-09-22T12:17:30.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88820100" lat="45.21445740">
+    <ele>827</ele>
+    <time>2020-09-22T12:17:36.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88832880" lat="45.21462760">
+    <ele>819</ele>
+    <time>2020-09-22T12:17:43.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88834620" lat="45.21482250">
+    <ele>812</ele>
+    <time>2020-09-22T12:17:50.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88838820" lat="45.21500200">
+    <ele>807</ele>
+    <time>2020-09-22T12:17:57.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88843810" lat="45.21520890">
+    <ele>804</ele>
+    <time>2020-09-22T12:18:05.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88844720" lat="45.21540150">
+    <ele>802</ele>
+    <time>2020-09-22T12:18:13.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88839770" lat="45.21559270">
+    <ele>802</ele>
+    <time>2020-09-22T12:18:21.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88839040" lat="45.21579670">
+    <ele>803</ele>
+    <time>2020-09-22T12:18:28.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88850750" lat="45.21598160">
+    <ele>803</ele>
+    <time>2020-09-22T12:18:34.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88855300" lat="45.21617020">
+    <ele>802</ele>
+    <time>2020-09-22T12:18:38.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88855810" lat="45.21635150">
+    <ele>801</ele>
+    <time>2020-09-22T12:18:43.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88860340" lat="45.21655280">
+    <ele>799</ele>
+    <time>2020-09-22T12:18:48.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88863820" lat="45.21674930">
+    <ele>797</ele>
+    <time>2020-09-22T12:18:52.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+   <trkpt lon="5.88856950" lat="45.21692780">
+    <ele>796</ele>
+    <time>2020-09-22T12:19:09.000Z</time>
+    <extensions>
+     <ql:flags>0</ql:flags>
+     <ql:activity>0</ql:activity>
+    </extensions>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <extensions>
+  <ql:key>c56d97e6192c956baefdb2bc19c55b06</ql:key>
+  <ql:sortingRoadbook>0</ql:sortingRoadbook>
+  <ql:sortingFolder>0</ql:sortingFolder>
+  <ql:correlation>1</ql:correlation>
+  <ql:invalidDataOk>0</ql:invalidDataOk>
+ </extensions>
+</gpx>

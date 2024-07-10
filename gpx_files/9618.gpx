@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2017-06-10T13:37:54Z</time>
+    <bounds maxlat="43.401982029899955" maxlon="5.669576721265912" minlat="43.40040497481823" minlon="5.666817398741841" />
+  </metadata>
+
+  <rte>
+    <name>Régagnas Nord-Ouest</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.400507234036922" lon="5.669576721265912">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest</name>
+      <cmt>Régagnas Nord-Ouest</cmt>
+      <desc>Régagnas Nord-Ouest</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400461636483669" lon="5.669435486197472">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-1</name>
+      <cmt>Régagnas Nord-Ouest-1</cmt>
+      <desc>Régagnas Nord-Ouest-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400470856577158" lon="5.66933867521584">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-2</name>
+      <cmt>Régagnas Nord-Ouest-2</cmt>
+      <desc>Régagnas Nord-Ouest-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40040497481823" lon="5.669161314144731">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-3</name>
+      <cmt>Régagnas Nord-Ouest-3</cmt>
+      <desc>Régagnas Nord-Ouest-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400424001738429" lon="5.669072633609176">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-4</name>
+      <cmt>Régagnas Nord-Ouest-4</cmt>
+      <desc>Régagnas Nord-Ouest-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400494493544102" lon="5.668982863426209">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-5</name>
+      <cmt>Régagnas Nord-Ouest-5</cmt>
+      <desc>Régagnas Nord-Ouest-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400527769699693" lon="5.668745487928391">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-6</name>
+      <cmt>Régagnas Nord-Ouest-6</cmt>
+      <desc>Régagnas Nord-Ouest-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400520058348775" lon="5.668559242039919">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-7</name>
+      <cmt>Régagnas Nord-Ouest-7</cmt>
+      <desc>Régagnas Nord-Ouest-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400518633425236" lon="5.668511716648936">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-8</name>
+      <cmt>Régagnas Nord-Ouest-8</cmt>
+      <desc>Régagnas Nord-Ouest-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400538079440594" lon="5.668237628415227">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-9</name>
+      <cmt>Régagnas Nord-Ouest-9</cmt>
+      <desc>Régagnas Nord-Ouest-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400662215426564" lon="5.668134363368154">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-10</name>
+      <cmt>Régagnas Nord-Ouest-10</cmt>
+      <desc>Régagnas Nord-Ouest-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400822393596172" lon="5.667946692556143">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-11</name>
+      <cmt>Régagnas Nord-Ouest-11</cmt>
+      <desc>Régagnas Nord-Ouest-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400948876515031" lon="5.667716860771179">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-12</name>
+      <cmt>Régagnas Nord-Ouest-12</cmt>
+      <desc>Régagnas Nord-Ouest-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400905290618539" lon="5.667649554088712">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-13</name>
+      <cmt>Régagnas Nord-Ouest-13</cmt>
+      <desc>Régagnas Nord-Ouest-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400942338630557" lon="5.667492058128119">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-14</name>
+      <cmt>Régagnas Nord-Ouest-14</cmt>
+      <desc>Régagnas Nord-Ouest-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400907972827554" lon="5.667425924912095">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-15</name>
+      <cmt>Régagnas Nord-Ouest-15</cmt>
+      <desc>Régagnas Nord-Ouest-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400953570380807" lon="5.667320564389229">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-16</name>
+      <cmt>Régagnas Nord-Ouest-16</cmt>
+      <desc>Régagnas Nord-Ouest-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.400983745232224" lon="5.66701915115118">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-17</name>
+      <cmt>Régagnas Nord-Ouest-17</cmt>
+      <desc>Régagnas Nord-Ouest-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401013417169452" lon="5.666929632425308">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-18</name>
+      <cmt>Régagnas Nord-Ouest-18</cmt>
+      <desc>Régagnas Nord-Ouest-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401155574247241" lon="5.666853440925479">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-19</name>
+      <cmt>Régagnas Nord-Ouest-19</cmt>
+      <desc>Régagnas Nord-Ouest-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401195639744401" lon="5.667044967412949">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-20</name>
+      <cmt>Régagnas Nord-Ouest-20</cmt>
+      <desc>Régagnas Nord-Ouest-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40122539550066" lon="5.667091403156519">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-21</name>
+      <cmt>Régagnas Nord-Ouest-21</cmt>
+      <desc>Régagnas Nord-Ouest-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401277614757419" lon="5.667221238836646">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-22</name>
+      <cmt>Régagnas Nord-Ouest-22</cmt>
+      <desc>Régagnas Nord-Ouest-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401290355250239" lon="5.667270189151168">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-23</name>
+      <cmt>Régagnas Nord-Ouest-23</cmt>
+      <desc>Régagnas Nord-Ouest-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401412982493639" lon="5.667447298765183">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-24</name>
+      <cmt>Régagnas Nord-Ouest-24</cmt>
+      <desc>Régagnas Nord-Ouest-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401484061032534" lon="5.667493902146816">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-25</name>
+      <cmt>Régagnas Nord-Ouest-25</cmt>
+      <desc>Régagnas Nord-Ouest-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401684137061238" lon="5.667327689006925">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-26</name>
+      <cmt>Régagnas Nord-Ouest-26</cmt>
+      <desc>Régagnas Nord-Ouest-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401709115132689" lon="5.667311595752835">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-27</name>
+      <cmt>Régagnas Nord-Ouest-27</cmt>
+      <desc>Régagnas Nord-Ouest-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401794778183103" lon="5.667270189151168">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-28</name>
+      <cmt>Régagnas Nord-Ouest-28</cmt>
+      <desc>Régagnas Nord-Ouest-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401831490918994" lon="5.667129121720791">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-29</name>
+      <cmt>Régagnas Nord-Ouest-29</cmt>
+      <desc>Régagnas Nord-Ouest-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401982029899955" lon="5.666836090385914">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-30</name>
+      <cmt>Régagnas Nord-Ouest-30</cmt>
+      <desc>Régagnas Nord-Ouest-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.401973564177752" lon="5.666817398741841">
+      <time>2017-04-23T08:12:54Z</time>
+      <name>Régagnas Nord-Ouest-31</name>
+      <cmt>Régagnas Nord-Ouest-31</cmt>
+      <desc>Régagnas Nord-Ouest-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

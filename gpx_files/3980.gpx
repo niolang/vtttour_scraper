@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-06-09T15:15:00Z</time>
+    <bounds maxlat="44.1574012" maxlon="6.8150353" minlat="44.1556876" minlon="6.8087476"/>
+  </metadata>
+
+  <trk>
+    <name>Tracé 002</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.1574012" lon="6.8150353">
+        <ele>2155.8935547</ele>
+        <time>2012-06-09T09:05:33Z</time>
+      </trkpt>
+      <trkpt lat="44.1572390" lon="6.8148437">
+        <ele>2155.8935547</ele>
+        <time>2012-06-09T09:05:56Z</time>
+      </trkpt>
+      <trkpt lat="44.1571689" lon="6.8147199">
+        <ele>2154.9323730</ele>
+        <time>2012-06-09T09:11:45Z</time>
+      </trkpt>
+      <trkpt lat="44.1569332" lon="6.8145445">
+        <ele>2145.8000488</ele>
+        <time>2012-06-09T09:12:20Z</time>
+      </trkpt>
+      <trkpt lat="44.1564590" lon="6.8141698">
+        <ele>2123.2089844</ele>
+        <time>2012-06-09T09:12:48Z</time>
+      </trkpt>
+      <trkpt lat="44.1563463" lon="6.8118385">
+        <ele>2078.5078125</ele>
+        <time>2012-06-09T09:13:43Z</time>
+      </trkpt>
+      <trkpt lat="44.1558849" lon="6.8094139">
+        <ele>2041.0161133</ele>
+        <time>2012-06-09T09:15:49Z</time>
+      </trkpt>
+      <trkpt lat="44.1556876" lon="6.8087476">
+        <ele>2025.6350098</ele>
+        <time>2012-06-09T09:16:07Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

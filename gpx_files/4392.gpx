@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-08-20T20:23:37Z</time>
+    <bounds maxlat="45.184294246137142" maxlon="6.798552861437202" minlat="45.15316067263484" minlon="6.75198988057673" />
+  </metadata>
+
+  <trk>
+    <name>Sentier Pte St Michel</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.184294246137142" lon="6.75198988057673" />
+      <trkpt lat="45.18325187265873" lon="6.75465976819396" />
+      <trkpt lat="45.182122746482491" lon="6.755520589649677" />
+      <trkpt lat="45.181729048490524" lon="6.758779557421804" />
+      <trkpt lat="45.181303415447474" lon="6.760492399334908" />
+      <trkpt lat="45.180687764659524" lon="6.761811291798949" />
+      <trkpt lat="45.180501351132989" lon="6.76248662173748" />
+      <trkpt lat="45.180596401914954" lon="6.762732965871692" />
+      <trkpt lat="45.18011687323451" lon="6.764445975422859" />
+      <trkpt lat="45.17787748016417" lon="6.767828995361924" />
+      <trkpt lat="45.177331985905766" lon="6.76817080937326" />
+      <trkpt lat="45.176635114476085" lon="6.76934209652245" />
+      <trkpt lat="45.175519986078143" lon="6.770367370918393" />
+      <trkpt lat="45.174701577052474" lon="6.771456934511662" />
+      <trkpt lat="45.173345133662224" lon="6.772878170013428" />
+      <trkpt lat="45.172215923666954" lon="6.773689622059465" />
+      <trkpt lat="45.170819498598576" lon="6.775778727605939" />
+      <trkpt lat="45.168859641999006" lon="6.778091127052903" />
+      <trkpt lat="45.16878210939467" lon="6.779111372306943" />
+      <trkpt lat="45.169687941670418" lon="6.780044697225094" />
+      <trkpt lat="45.169810401275754" lon="6.780422385782003" />
+      <trkpt lat="45.169747872278094" lon="6.781919645145536" />
+      <trkpt lat="45.169212687760592" lon="6.783090177923441" />
+      <trkpt lat="45.168286990374327" lon="6.784361209720373" />
+      <trkpt lat="45.16802673228085" lon="6.787224719300866" />
+      <trkpt lat="45.166911017149687" lon="6.789195807650685" />
+      <trkpt lat="45.165002373978496" lon="6.790669094771147" />
+      <trkpt lat="45.163201773539186" lon="6.792240450158715" />
+      <trkpt lat="45.158554930239916" lon="6.798219596967101" />
+      <trkpt lat="45.157731827348471" lon="6.797878118231893" />
+      <trkpt lat="45.156855834648013" lon="6.797832939773798" />
+      <trkpt lat="45.154244033619761" lon="6.798552861437202" />
+      <trkpt lat="45.153475161641836" lon="6.798309870064259" />
+      <trkpt lat="45.15316067263484" lon="6.796880252659321" />
+      <trkpt lat="45.15316067263484" lon="6.796880252659321" />
+    </trkseg>
+  </trk>
+
+</gpx>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-10-06T20:54:26Z</time>
+    <bounds maxlat="45.203027967363596" maxlon="6.013784352689982" minlat="45.201303223147988" minlon="5.999549953266978" />
+  </metadata>
+
+  <trk>
+    <name>Sentier Breche Roche Fendue partie sup</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.201482931151986" lon="5.999549953266978" />
+      <trkpt lat="45.201734472066164" lon="6.000449163839221" />
+      <trkpt lat="45.201878137886524" lon="6.001129103824496" />
+      <trkpt lat="45.201716450974345" lon="6.001809043809772" />
+      <trkpt lat="45.201464910060167" lon="6.002467023208737" />
+      <trkpt lat="45.201482931151986" lon="6.00279601290822" />
+      <trkpt lat="45.202650697901845" lon="6.003081081435084" />
+      <trkpt lat="45.202596802264452" lon="6.003432031720877" />
+      <trkpt lat="45.203027967363596" lon="6.004484798759222" />
+      <trkpt lat="45.202668718993664" lon="6.006963243708015" />
+      <trkpt lat="45.202327324077487" lon="6.007423829287291" />
+      <trkpt lat="45.202435115352273" lon="6.008345000445843" />
+      <trkpt lat="45.202237470075488" lon="6.009551323950291" />
+      <trkpt lat="45.202560843899846" lon="6.009858353063464" />
+      <trkpt lat="45.202327324077487" lon="6.011612936854363" />
+      <trkpt lat="45.202758489176631" lon="6.013170210644603" />
+      <trkpt lat="45.202057845890522" lon="6.012863181531429" />
+      <trkpt lat="45.201554764062166" lon="6.012885058298707" />
+      <trkpt lat="45.201303223147988" lon="6.013148250058293" />
+      <trkpt lat="45.201411014422774" lon="6.013784352689982" />
+      <trkpt lat="45.201411014422774" lon="6.013784352689982" />
+    </trkseg>
+  </trk>
+
+</gpx>

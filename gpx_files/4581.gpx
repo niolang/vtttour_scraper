@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-10-06T20:53:26Z</time>
+    <bounds maxlat="45.201555518433452" maxlon="6.037400532513857" minlat="45.195707464590669" minlon="6.01402566768229" />
+  </metadata>
+
+  <trk>
+    <name>Sentier Stele York Mallory</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.201407242566347" lon="6.01402566768229" />
+      <trkpt lat="45.201555518433452" lon="6.014157263562083" />
+      <trkpt lat="45.201326441019773" lon="6.015160661190748" />
+      <trkpt lat="45.201542023569345" lon="6.015341626480222" />
+      <trkpt lat="45.201501622796059" lon="6.015999605879188" />
+      <trkpt lat="45.201299451291561" lon="6.016460191458464" />
+      <trkpt lat="45.201097363606095" lon="6.017282623797655" />
+      <trkpt lat="45.201029973104596" lon="6.017891317605972" />
+      <trkpt lat="45.200437121093273" lon="6.018187366425991" />
+      <trkpt lat="45.200464027002454" lon="6.018450558185577" />
+      <trkpt lat="45.200234949588776" lon="6.018450558185577" />
+      <trkpt lat="45.200154148042202" lon="6.018861774355173" />
+      <trkpt lat="45.200369730591774" lon="6.019059168174863" />
+      <trkpt lat="45.200369730591774" lon="6.01937172934413" />
+      <trkpt lat="45.200005872175097" lon="6.01966786198318" />
+      <trkpt lat="45.199156953021884" lon="6.020227102562785" />
+      <trkpt lat="45.199386030435562" lon="6.020490294322372" />
+      <trkpt lat="45.199278239160776" lon="6.020737057551742" />
+      <trkpt lat="45.199655508622527" lon="6.020934451371431" />
+      <trkpt lat="45.199413020163774" lon="6.021000249311328" />
+      <trkpt lat="45.199790289625525" lon="6.021131845191121" />
+      <trkpt lat="45.200194548815489" lon="6.021329239010811" />
+      <trkpt lat="45.199722899124026" lon="6.02192142046988" />
+      <trkpt lat="45.20005976781249" lon="6.022382006049156" />
+      <trkpt lat="45.199965471401811" lon="6.022447803989053" />
+      <trkpt lat="45.200194548815489" lon="6.023171581327915" />
+      <trkpt lat="45.199547717347741" lon="6.024915268644691" />
+      <trkpt lat="45.198907675221562" lon="6.026247655972838" />
+      <trkpt lat="45.198368718847632" lon="6.027382649481297" />
+      <trkpt lat="45.198395624756813" lon="6.028303820639849" />
+      <trkpt lat="45.198207031935453" lon="6.029290789738298" />
+      <trkpt lat="45.198112651705742" lon="6.029586922377348" />
+      <trkpt lat="45.19799136556685" lon="6.030360069125891" />
+      <trkpt lat="45.197708392515779" lon="6.032136613503099" />
+      <trkpt lat="45.195707464590669" lon="6.032893331721425" />
+      <trkpt lat="45.196947148069739" lon="6.034308029338718" />
+      <trkpt lat="45.198267633095384" lon="6.03483441285789" />
+      <trkpt lat="45.19830803386867" lon="6.036166800186038" />
+      <trkpt lat="45.198510205373168" lon="6.037120912224054" />
+      <trkpt lat="45.198415908962488" lon="6.037400532513857" />
+      <trkpt lat="45.198415908962488" lon="6.037400532513857" />
+    </trkseg>
+  </trk>
+
+</gpx>

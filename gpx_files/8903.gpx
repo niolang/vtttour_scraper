@@ -1,0 +1,1005 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-09T13:59:46Z</time>
+    <bounds maxlat="43.345280215144157" maxlon="5.77285316772759" minlat="43.331501120701432" minlon="5.727223763242364" />
+  </metadata>
+
+  <rte>
+    <name>La Quille - l'Oratoire  chemin des Rois</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Yellow</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.334224233403802" lon="5.727223763242364">
+      <ele>676.23828125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois2</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333642780780792" lon="5.728314081206918">
+      <ele>672.6875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1101</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-1</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333460306748748" lon="5.728871310129762">
+      <ele>670.5625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-27</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-2</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333392413333058" lon="5.72920004837215">
+      <ele>670.09765625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-31</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-3</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333294345065951" lon="5.729656610637903">
+      <ele>669.69921875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-41</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-4</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333269786089659" lon="5.730057684704661">
+      <ele>669.58984375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5101</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-5</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33288237452507" lon="5.731323603540659">
+      <ele>669.09375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-655</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-6</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332334198057652" lon="5.731721324846149">
+      <ele>669</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-712</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-7</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332015015184879" lon="5.732132624834776">
+      <ele>668.875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-810</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-8</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332108221948147" lon="5.733233420178294">
+      <ele>667.68359375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-910</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-9</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332264292985201" lon="5.733679505065084">
+      <ele>667.40234375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1010</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-10</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332151221111417" lon="5.734731936827302">
+      <ele>666.6796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-11</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331632046028972" lon="5.735022453591228">
+      <ele>668.078125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1211</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-12</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331576809287071" lon="5.735195372253656">
+      <ele>668.27734375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1311</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-13</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331501120701432" lon="5.735856620594859">
+      <ele>668.55078125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1411</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-14</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331552166491747" lon="5.736498255282641">
+      <ele>668.3671875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1511</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-15</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331831116229296" lon="5.73677871376276">
+      <ele>667.2734375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1611</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-16</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332090955227613" lon="5.736802434548736">
+      <ele>666.7109375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1711</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-17</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332493957132101" lon="5.736808301880956">
+      <ele>665.98828125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1811</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-18</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332670563831925" lon="5.736772008240223">
+      <ele>665.66796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-1911</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-19</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335193349048495" lon="5.736773433163762">
+      <ele>667.453125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2011</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-20</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335333075374365" lon="5.737426299601793">
+      <ele>666.421875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-21</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335434664040804" lon="5.741126490756869">
+      <ele>666.30859375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2211</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-22</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335484871640801" lon="5.743608456104994">
+      <ele>665.3984375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2311</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-23</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335607079789042" lon="5.743815489113331">
+      <ele>665.62109375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2411</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-24</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335716463625431" lon="5.743963345885277">
+      <ele>665.81640625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2511</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-25</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336468152701855" lon="5.743600158020854">
+      <ele>667.34375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2611</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-26</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336975425481796" lon="5.743340151384473">
+      <ele>669.16796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-2711</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-27</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337346995249391" lon="5.742872692644596">
+      <ele>670.375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-28</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-28</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337581856176257" lon="5.742893060669303">
+      <ele>671.53125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-29</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-29</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337730970233679" lon="5.74290856719017">
+      <ele>672.3359375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-30</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-30</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339626369997859" lon="5.742007344961166">
+      <ele>686.6796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-3111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-31</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339699627831578" lon="5.742517802864313">
+      <ele>685.3125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-32</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-32</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339216327294707" lon="5.746012553572655">
+      <ele>676.2421875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-33</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-33</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339040307328105" lon="5.749243022873998">
+      <ele>676.5625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-34</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-34</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338753059506416" lon="5.750516820698977">
+      <ele>676.1171875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-35</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-35</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338551642373204" lon="5.751522062346339">
+      <ele>674.84765625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-36</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-36</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338794969022274" lon="5.753985503688455">
+      <ele>675.36328125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-37</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-37</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33882606588304" lon="5.756939789280295">
+      <ele>675.61328125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-38</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-38</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339235270395875" lon="5.757337342947722">
+      <ele>675.48046875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-39</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-39</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340445701032877" lon="5.757513614371419">
+      <ele>675.21484375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-40</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-40</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341405177488923" lon="5.757510680705309">
+      <ele>676.2109375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-4111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-41</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341440465301275" lon="5.757972942665219">
+      <ele>676.37890625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-42</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-42</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34173584356904" lon="5.758118536323309">
+      <ele>677.9765625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-43</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-43</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342185784131289" lon="5.758035136386752">
+      <ele>680.45703125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-44</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-44</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342536399140954" lon="5.758362365886569">
+      <ele>677.3203125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-45</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-45</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342709066346288" lon="5.758895287290216">
+      <ele>660.67578125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-46</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-46</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342419303953648" lon="5.75956298969686">
+      <ele>661.9296875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-47</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-47</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341987803578377" lon="5.760578373447061">
+      <ele>646.51171875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-48</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-48</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341495869681239" lon="5.761282369494438">
+      <ele>641.05078125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-49</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-49</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341321190819144" lon="5.761803556233645">
+      <ele>643.52734375</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5011</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-50</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341462509706616" lon="5.762735204771161">
+      <ele>645.91015625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-51</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341506095603108" lon="5.763206435367465">
+      <ele>651.79296875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5211</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-52</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341728216037154" lon="5.764279402792454">
+      <ele>656.91015625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5311</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-53</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341792253777385" lon="5.764995971694589">
+      <ele>663.1875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5411</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-54</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341784961521626" lon="5.765599049627781">
+      <ele>668.88671875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5511</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-55</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341708434745669" lon="5.766063239425421">
+      <ele>673.796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5611</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-56</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341989144682884" lon="5.766930431127548">
+      <ele>675.91796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5711</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-57</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342081094160676" lon="5.7669070456177">
+      <ele>675.08203125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5811</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-58</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34215116687119" lon="5.766891455277801">
+      <ele>674.453125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-5911</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-59</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342560455203056" lon="5.767501909285784">
+      <ele>676.31640625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-6011</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-60</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342564394697547" lon="5.767840621992946">
+      <ele>677.5703125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-6111</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-61</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343013832345605" lon="5.768518131226301">
+      <ele>680.578125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-6211</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-62</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343219105154276" lon="5.768712423741818">
+      <ele>681.6796875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-6311</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-63</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343376098200679" lon="5.768866650760174">
+      <ele>683.0390625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-6411</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-64</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343699974939227" lon="5.771023398265243">
+      <ele>693.17578125</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-656</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-65</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344188975170255" lon="5.771884974092245">
+      <ele>697.640625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-662</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-66</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344675796106458" lon="5.772330053150654">
+      <ele>701.79296875</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-672</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-67</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344971425831318" lon="5.772712100297213">
+      <ele>701.625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-682</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-68</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.345280215144157" lon="5.77285316772759">
+      <ele>700.7265625</ele>
+      <time>2016-03-09T13:55:58Z</time>
+      <name>La Quille - l'Oratoire  chemin des Rois-692</name>
+      <cmt>La Quille - l'Oratoire  chemin des Rois-69</cmt>
+      <desc>La Quille - l'Oratoire  chemin des Rois-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

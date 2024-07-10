@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-09-23T15:48:30Z</time>
+    <bounds maxlat="43.8295263" maxlon="6.9468141" minlat="43.8221884" minlon="6.9455034"/>
+  </metadata>
+
+  <trk>
+    <name>Tracé 002</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.8221884" lon="6.9468141">
+        <ele>1488.2583008</ele>
+        <time>2012-09-22T10:41:13Z</time>
+      </trkpt>
+      <trkpt lat="43.8235161" lon="6.9465717">
+        <ele>1484.4130859</ele>
+        <time>2012-09-22T10:42:31Z</time>
+      </trkpt>
+      <trkpt lat="43.8247758" lon="6.9457042">
+        <ele>1459.8991699</ele>
+        <time>2012-09-22T10:43:37Z</time>
+      </trkpt>
+      <trkpt lat="43.8260081" lon="6.9457575">
+        <ele>1455.5734863</ele>
+        <time>2012-09-22T10:44:31Z</time>
+      </trkpt>
+      <trkpt lat="43.8262389" lon="6.9455034">
+        <ele>1453.1701660</ele>
+        <time>2012-09-22T10:44:43Z</time>
+      </trkpt>
+      <trkpt lat="43.8266021" lon="6.9455244">
+        <ele>1450.2861328</ele>
+        <time>2012-09-22T10:44:55Z</time>
+      </trkpt>
+      <trkpt lat="43.8276933" lon="6.9458723">
+        <ele>1442.1149902</ele>
+        <time>2012-09-22T10:45:23Z</time>
+      </trkpt>
+      <trkpt lat="43.8283973" lon="6.9460330">
+        <ele>1434.4243164</ele>
+        <time>2012-09-22T10:45:41Z</time>
+      </trkpt>
+      <trkpt lat="43.8295263" lon="6.9457440">
+        <ele>1427.6950684</ele>
+        <time>2012-09-22T10:46:16Z</time>
+      </trkpt>
+      <trkpt lat="43.8294761" lon="6.9459410">
+        <ele>1426.2531738</ele>
+        <time>2012-09-22T10:46:21Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

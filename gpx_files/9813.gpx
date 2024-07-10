@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2017-07-02T08:47:26Z</time>
+    <bounds maxlat="44.648051932454109" maxlon="3.070771163329482" minlat="44.646127363666892" minlon="3.065188564360142"/>
+  </metadata>
+
+  <trk>
+    <name>T1000 001</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.648051932454109" lon="3.065188564360142">
+        <ele>1221</ele>
+        <time>2017-06-17T05:43:16Z</time>
+      </trkpt>
+      <trkpt lat="44.647959731519222" lon="3.065305324271321">
+        <ele>1221</ele>
+        <time>2017-06-17T05:43:24Z</time>
+      </trkpt>
+      <trkpt lat="44.647950930520892" lon="3.065310856327415">
+        <ele>1221</ele>
+        <time>2017-06-17T05:43:25Z</time>
+      </trkpt>
+      <trkpt lat="44.647864596918225" lon="3.065516464412212">
+        <ele>1220.41796875</ele>
+        <time>2017-06-17T05:43:31Z</time>
+      </trkpt>
+      <trkpt lat="44.647822268307209" lon="3.065641857683659">
+        <ele>1220</ele>
+        <time>2017-06-17T05:43:36Z</time>
+      </trkpt>
+      <trkpt lat="44.647715734317899" lon="3.065808406099677">
+        <ele>1220</ele>
+        <time>2017-06-17T05:43:41Z</time>
+      </trkpt>
+      <trkpt lat="44.647497972473502" lon="3.066162457689643">
+        <ele>1220</ele>
+        <time>2017-06-17T05:43:47Z</time>
+      </trkpt>
+      <trkpt lat="44.647248946130276" lon="3.066720357164741">
+        <ele>1219.078125</ele>
+        <time>2017-06-17T05:43:55Z</time>
+      </trkpt>
+      <trkpt lat="44.64708105660975" lon="3.06706870906055">
+        <ele>1217.8984375</ele>
+        <time>2017-06-17T05:44:01Z</time>
+      </trkpt>
+      <trkpt lat="44.646852146834135" lon="3.067602217197418">
+        <ele>1216</ele>
+        <time>2017-06-17T05:44:12Z</time>
+      </trkpt>
+      <trkpt lat="44.646637151017785" lon="3.068158188834786">
+        <ele>1214.90234375</ele>
+        <time>2017-06-17T05:44:23Z</time>
+      </trkpt>
+      <trkpt lat="44.646486360579729" lon="3.068592539057136">
+        <ele>1214</ele>
+        <time>2017-06-17T05:44:31Z</time>
+      </trkpt>
+      <trkpt lat="44.646382927894592" lon="3.068935442715883">
+        <ele>1214</ele>
+        <time>2017-06-17T05:44:37Z</time>
+      </trkpt>
+      <trkpt lat="44.646282093599439" lon="3.069134429097176">
+        <ele>1213.3828125</ele>
+        <time>2017-06-17T05:44:40Z</time>
+      </trkpt>
+      <trkpt lat="44.646211350336671" lon="3.069270886480808">
+        <ele>1213</ele>
+        <time>2017-06-17T05:44:42Z</time>
+      </trkpt>
+      <trkpt lat="44.646230544894934" lon="3.069572551175952">
+        <ele>1212.61328125</ele>
+        <time>2017-06-17T05:44:47Z</time>
+      </trkpt>
+      <trkpt lat="44.646425005048513" lon="3.069930039346218">
+        <ele>1210.578125</ele>
+        <time>2017-06-17T05:44:55Z</time>
+      </trkpt>
+      <trkpt lat="44.646511171013117" lon="3.070134641602635">
+        <ele>1210.0703125</ele>
+        <time>2017-06-17T05:45:01Z</time>
+      </trkpt>
+      <trkpt lat="44.646522654220462" lon="3.070179568603635">
+        <ele>1209.875</ele>
+        <time>2017-06-17T05:45:03Z</time>
+      </trkpt>
+      <trkpt lat="44.646468507125974" lon="3.070279229432344">
+        <ele>1209.31640625</ele>
+        <time>2017-06-17T05:45:09Z</time>
+      </trkpt>
+      <trkpt lat="44.646432297304273" lon="3.070312757045031">
+        <ele>1209.15234375</ele>
+        <time>2017-06-17T05:45:15Z</time>
+      </trkpt>
+      <trkpt lat="44.646416623145342" lon="3.070368748158216">
+        <ele>1208.81640625</ele>
+        <time>2017-06-17T05:48:12Z</time>
+      </trkpt>
+      <trkpt lat="44.646378150209785" lon="3.070476958528161">
+        <ele>1208.78125</ele>
+        <time>2017-06-17T05:48:29Z</time>
+      </trkpt>
+      <trkpt lat="44.64631050825119" lon="3.070601765066385">
+        <ele>1209.00390625</ele>
+        <time>2017-06-17T05:48:40Z</time>
+      </trkpt>
+      <trkpt lat="44.646226102486253" lon="3.070708885788918">
+        <ele>1209.1484375</ele>
+        <time>2017-06-17T05:48:43Z</time>
+      </trkpt>
+      <trkpt lat="44.646127363666892" lon="3.070771163329482">
+        <ele>1209.5234375</ele>
+        <time>2017-06-17T05:48:51Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

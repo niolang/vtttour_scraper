@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-07-20T12:21:16Z</time>
+    <bounds maxlat="44.642649376764894" maxlon="5.925476644188166" minlat="44.637627778574824" minlon="5.920635005459189" />
+  </metadata>
+
+  <trk>
+    <name>test 001</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.637627778574824" lon="5.925476644188166">
+        <ele>2065</ele>
+      </trkpt>
+      <trkpt lat="44.63778049685061" lon="5.925072133541107">
+        <ele>2075</ele>
+      </trkpt>
+      <trkpt lat="44.637924246490002" lon="5.924980770796537">
+        <ele>2075</ele>
+      </trkpt>
+      <trkpt lat="44.638139829039574" lon="5.924915475770831">
+        <ele>2017</ele>
+      </trkpt>
+      <trkpt lat="44.638328505679965" lon="5.924837188795209">
+        <ele>2017</ele>
+      </trkpt>
+      <trkpt lat="44.638472171500325" lon="5.924693606793881">
+        <ele>2017</ele>
+      </trkpt>
+      <trkpt lat="44.638660848140717" lon="5.924537032842636">
+        <ele>2026</ele>
+      </trkpt>
+      <trkpt lat="44.638849524781108" lon="5.924432594329119">
+        <ele>1985</ele>
+      </trkpt>
+      <trkpt lat="44.639110034331679" lon="5.924171665683389">
+        <ele>1985</ele>
+      </trkpt>
+      <trkpt lat="44.639406418427825" lon="5.923845358192921">
+        <ele>2004</ele>
+      </trkpt>
+      <trkpt lat="44.63953223079443" lon="5.923532210290432">
+        <ele>2004</ele>
+      </trkpt>
+      <trkpt lat="44.639783771708608" lon="5.923336409032345">
+        <ele>1976</ele>
+      </trkpt>
+      <trkpt lat="44.640196999534965" lon="5.923062404617667">
+        <ele>1976</ele>
+      </trkpt>
+      <trkpt lat="44.640610227361321" lon="5.922710029408336">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.6408168412745" lon="5.922462092712522">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.640987496823072" lon="5.92229244299233">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.641301902011037" lon="5.922161936759949">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.639729876071215" lon="5.923414696007967">
+        <ele>1976</ele>
+      </trkpt>
+      <trkpt lat="44.640053249895573" lon="5.923179835081101">
+        <ele>1976</ele>
+      </trkpt>
+      <trkpt lat="44.640511404722929" lon="5.922749172896147">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.640906611457467" lon="5.922331586480141">
+        <ele>1981</ele>
+      </trkpt>
+      <trkpt lat="44.641481526196003" lon="5.922070574015379">
+        <ele>1991</ele>
+      </trkpt>
+      <trkpt lat="44.641984608024359" lon="5.921639911830425">
+        <ele>1991</ele>
+      </trkpt>
+      <trkpt lat="44.64231695048511" lon="5.92126146890223">
+        <ele>1994</ele>
+      </trkpt>
+      <trkpt lat="44.642649376764894" lon="5.920635005459189">
+        <ele>1994</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

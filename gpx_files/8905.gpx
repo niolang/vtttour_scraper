@@ -1,0 +1,949 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-09T16:13:13Z</time>
+    <bounds maxlat="43.353610401973128" maxlon="5.788714662194252" minlat="43.345107212662697" minlon="5.77282877638936" />
+  </metadata>
+
+  <rte>
+    <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.345107212662697" lon="5.77282877638936">
+      <ele>701.3828125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.345882706344128" lon="5.773047711700201">
+      <ele>693.46484375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-1</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-1</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346341699361801" lon="5.773950191214681">
+      <ele>685.9453125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-2</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-2</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346109855920076" lon="5.774513119831681">
+      <ele>688.92578125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-3</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-3</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346093846485019" lon="5.775227677077055">
+      <ele>687.80078125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-4</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-4</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346096612513065" lon="5.775413671508431">
+      <ele>687.2421875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-5</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-5</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346016900613904" lon="5.776568111032248">
+      <ele>687.35546875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-6</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-6</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346024779602885" lon="5.777448294684291">
+      <ele>684.98828125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-7</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-7</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346022851765156" lon="5.77831607311964">
+      <ele>687.734375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-8</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-8</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34624002687633" lon="5.779662122949958">
+      <ele>692.8359375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-9</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-9</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346516210585833" lon="5.781257785856724">
+      <ele>686.6328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-10</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-10</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346503050997853" lon="5.782146351411939">
+      <ele>680.046875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-11</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-11</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346334658563137" lon="5.783166512846947">
+      <ele>672.83203125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-12</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-12</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346815947443247" lon="5.783380167558789">
+      <ele>666.0078125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-13</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-13</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347025075927377" lon="5.783291067928076">
+      <ele>662.8125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-14</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-14</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347485326230526" lon="5.783360218629241">
+      <ele>658.16796875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-15</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-15</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347574174404144" lon="5.783460047096014">
+      <ele>657.11328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-16</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-16</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347635446116328" lon="5.783505560830236">
+      <ele>656.3828125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-17</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-17</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347773412242532" lon="5.783614022657275">
+      <ele>654.4296875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-18</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-18</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34806501865387" lon="5.783883584663272">
+      <ele>648.1015625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-19</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-19</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348258724436164" lon="5.784236043691635">
+      <ele>640.546875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-20</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-20</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348482269793749" lon="5.785117484629154">
+      <ele>626.86328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-21</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-21</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348408509045839" lon="5.785493832081556">
+      <ele>621.1328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-22</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-22</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348453436046839" lon="5.785973528400064">
+      <ele>610.27734375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-23</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-23</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348604729399085" lon="5.786284916102886">
+      <ele>601.29296875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-24</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-24</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348522335290909" lon="5.786615163087845">
+      <ele>595.125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-25</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-25</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349194312468171" lon="5.788008319213986">
+      <ele>554.47265625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-26</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-26</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349569067358971" lon="5.788576612249017">
+      <ele>538.5703125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-27</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-27</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349531348794699" lon="5.788710890337825">
+      <ele>536.98046875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-28</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-28</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349511232227087" lon="5.788694713264704">
+      <ele>537.7421875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-29</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-29</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349511232227087" lon="5.788694713264704">
+      <ele>537.7421875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-30</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-30</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349516177549958" lon="5.788693120703101">
+      <ele>537.625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-31</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-31</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349523134529591" lon="5.788693875074387">
+      <ele>537.39453125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-32</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-32</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349547106772661" lon="5.788706280291081">
+      <ele>536.53125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-33</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-33</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349623717367649" lon="5.788703681901097">
+      <ele>534.1796875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-34</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-34</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349772160872817" lon="5.788703765720129">
+      <ele>529.4765625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-35</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-35</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350063012912869" lon="5.788714662194252">
+      <ele>519.890625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-36</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-36</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35028781555593" lon="5.788231277838349">
+      <ele>522.51953125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-37</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-37</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350320840254426" lon="5.786913391202688">
+      <ele>531.33984375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-38</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-38</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350364174693823" lon="5.786776598542929">
+      <ele>529.08984375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-39</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-39</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350410526618361" lon="5.786598231643438">
+      <ele>526.73828125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-40</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-40</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.3504534419626" lon="5.786726726219058">
+      <ele>524.03515625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-41</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-41</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350487221032381" lon="5.786936189979315">
+      <ele>521.7109375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-42</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-42</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350525107234716" lon="5.787752335891128">
+      <ele>516.11328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-43</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-43</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350488394498825" lon="5.788358431309462">
+      <ele>511.78515625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-44</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-44</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350538183003664" lon="5.788358682766557">
+      <ele>509.76953125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-45</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-45</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350836830213666" lon="5.787492245435715">
+      <ele>501.26953125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-46</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-46</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351077055558562" lon="5.786953372880817">
+      <ele>492.24609375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-47</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-47</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351569576188922" lon="5.78548913821578">
+      <ele>476.08203125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-48</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-48</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351637553423643" lon="5.785083035007119">
+      <ele>473.98046875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-49</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-49</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351650293916464" lon="5.78470098786056">
+      <ele>472.22265625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-50</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-50</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351941229775548" lon="5.783704882487655">
+      <ele>469.1796875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-51</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-51</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351896218955517" lon="5.783344628289342">
+      <ele>466.3203125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-52</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-52</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351914826780558" lon="5.783133320510387">
+      <ele>464.9375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-53</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-53</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352007698267698" lon="5.782883455976844">
+      <ele>464.0078125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-54</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-54</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352783024311066" lon="5.782252382487059">
+      <ele>463.703125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-55</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-55</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353610401973128" lon="5.781255774199963">
+      <ele>442.67578125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-56</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-56</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35353865288198" lon="5.780413812026382">
+      <ele>445.73828125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-57</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-57</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353513088077307" lon="5.779833700507879">
+      <ele>448.1796875</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-58</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-58</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353097680956125" lon="5.779622560366988">
+      <ele>449.71484375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-59</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-59</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352904310449958" lon="5.779489455744624">
+      <ele>451.37890625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-60</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-60</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352626534178853" lon="5.778961395844817">
+      <ele>450.92578125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-61</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-61</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352551264688373" lon="5.777948526665568">
+      <ele>442.03515625</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-62</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-62</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352694427594543" lon="5.777081167325378">
+      <ele>433.87109375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-63</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-63</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35290883667767" lon="5.777045963332057">
+      <ele>431.36328125</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-64</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-64</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353442763909698" lon="5.776636842638254">
+      <ele>426.83984375</ele>
+      <time>2016-03-09T15:36:41Z</time>
+      <name>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-65</name>
+      <cmt>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-65</cmt>
+      <desc>Le Vallon de Colombière / Tumulus de Miette à L'Usine de Nans-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

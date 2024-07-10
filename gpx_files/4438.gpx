@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2012-08-31T11:03:47Z</time>
+    <bounds maxlat="45.20673980936408" maxlon="6.739030117169023" minlat="45.196900712326169" minlon="6.733042504638434" />
+  </metadata>
+
+  <trk>
+    <name>Sentier du Pont Sévère</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.196900712326169" lon="6.739030117169023" />
+      <trkpt lat="45.199420480057597" lon="6.738602472469211" />
+      <trkpt lat="45.200916146859527" lon="6.738372137770057" />
+      <trkpt lat="45.201050927862525" lon="6.738651758059859" />
+      <trkpt lat="45.201697675511241" lon="6.738536674529314" />
+      <trkpt lat="45.201643779873848" lon="6.737796384841204" />
+      <trkpt lat="45.200767954811454" lon="6.737121976912022" />
+      <trkpt lat="45.201899847015738" lon="6.737039750441909" />
+      <trkpt lat="45.201603379100561" lon="6.736579164862633" />
+      <trkpt lat="45.202236715704203" lon="6.736743617802858" />
+      <trkpt lat="45.201994143426418" lon="6.736381771042943" />
+      <trkpt lat="45.203018244355917" lon="6.736431056633592" />
+      <trkpt lat="45.202640974894166" lon="6.73550988547504" />
+      <trkpt lat="45.202964348718524" lon="6.7346709407866" />
+      <trkpt lat="45.203969506546855" lon="6.733930734917522" />
+      <trkpt lat="45.204616254195571" lon="6.733864936977625" />
+      <trkpt lat="45.205424772575498" lon="6.733322124928236" />
+      <trkpt lat="45.206381483003497" lon="6.733042504638434" />
+      <trkpt lat="45.205424772575498" lon="6.734654512256384" />
+      <trkpt lat="45.20673980936408" lon="6.733727809041739" />
+      <trkpt lat="45.20638944581151" lon="6.734374891966581" />
+      <trkpt lat="45.206398498266935" lon="6.73484637401998" />
+      <trkpt lat="45.206398498266935" lon="6.73484637401998" />
+    </trkseg>
+  </trk>
+
+</gpx>

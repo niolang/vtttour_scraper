@@ -1,0 +1,1775 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-29T08:15:57Z</time>
+    <bounds maxlat="43.349821614101529" maxlon="5.698653375729919" minlat="43.331467425450683" minlon="5.660578245297074" />
+  </metadata>
+
+  <rte>
+    <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets 1</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.341606594622135" lon="5.695153847336769">
+      <ele>695.2578125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets1</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342061229050159" lon="5.69662026129663">
+      <ele>688.5625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-187</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342023091390729" lon="5.696806004270911">
+      <ele>685.3828125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-210</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-2</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341599889099598" lon="5.697261979803443">
+      <ele>674.8359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-310</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-3</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340825820341706" lon="5.697663556784391">
+      <ele>674.06640625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-410</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-4</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340410497039557" lon="5.698653375729919">
+      <ele>669.625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-510</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-5</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340249815955758" lon="5.698555642738938">
+      <ele>668.27734375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-610</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-6</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339438196271658" lon="5.696601821109653">
+      <ele>661.1171875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-710</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-7</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339370805770159" lon="5.69638766348362">
+      <ele>659.93359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-810</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-8</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338470757007599" lon="5.694658728316426">
+      <ele>648.80078125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-910</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-9</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337813531979918" lon="5.693513257429004">
+      <ele>640.82421875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1010</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-10</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33743542432785" lon="5.692746732383966">
+      <ele>633.68359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1110</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-11</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337234174832702" lon="5.692168883979321">
+      <ele>631.703125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1210</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-12</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337033679708838" lon="5.69209311157465">
+      <ele>628.5703125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1310</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-13</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336954219266772" lon="5.691930586472154">
+      <ele>626.8046875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1410</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-14</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336900155991316" lon="5.691811814904213">
+      <ele>626.08203125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1510</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-15</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336965199559927" lon="5.691510736942291">
+      <ele>625.4765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1610</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-16</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336780294775963" lon="5.69109633564949">
+      <ele>625.43359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1710</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-17</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336653057485819" lon="5.690660141408444">
+      <ele>625.34375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-188</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-18</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336595054715872" lon="5.690565425902605">
+      <ele>625.37109375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-191</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-19</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336115274578333" lon="5.689276456832886">
+      <ele>609.90234375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-201</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-20</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33577748388052" lon="5.688784522935748">
+      <ele>605.1015625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-211</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-21</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335661478340626" lon="5.688700955361128">
+      <ele>608.08984375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-221</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-22</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335555614903569" lon="5.688528707250953">
+      <ele>607.640625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-231</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-23</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335463749244809" lon="5.688332403078675">
+      <ele>606.36328125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-241</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-24</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335211118683219" lon="5.686997249722481">
+      <ele>579.46484375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-251</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-25</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335032500326633" lon="5.686687203124166">
+      <ele>588.89453125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-261</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-26</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33430620841682" lon="5.685071675106883">
+      <ele>608.87109375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-271</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-27</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334150221198797" lon="5.684596002101898">
+      <ele>615.5390625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-281</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-28</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333445386961102" lon="5.683501325547695">
+      <ele>612.3671875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-291</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-29</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333296105265617" lon="5.683424044400454">
+      <ele>610.50390625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-301</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-30</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332865443080664" lon="5.682618543505669">
+      <ele>605.90234375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-311</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-31</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332830490544438" lon="5.682545537129045">
+      <ele>605.34375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-321</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-32</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332470823079348" lon="5.681582288816571">
+      <ele>597.15234375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-331</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-33</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332421537488699" lon="5.681349439546466">
+      <ele>595.4453125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-341</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-34</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332756059244275" lon="5.681065041571856">
+      <ele>590.2109375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-351</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-35</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332854630425572" lon="5.680769914761186">
+      <ele>587.5703125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-361</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-36</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332877680659294" lon="5.680609149858356">
+      <ele>587.16796875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-371</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-37</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332750108093023" lon="5.679660486057401">
+      <ele>584.58984375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-381</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-38</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332619853317738" lon="5.679150531068444">
+      <ele>581.9375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-391</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-39</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332432936877012" lon="5.67861475981772">
+      <ele>585.5859375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-401</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-40</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332413574680686" lon="5.678539993241429">
+      <ele>586.59765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-411</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-41</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332377532497048" lon="5.677967090159655">
+      <ele>591.59765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-421</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-42</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33181812427938" lon="5.676353154703975">
+      <ele>609.94921875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-431</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-43</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331467425450683" lon="5.675785699859262">
+      <ele>609.62890625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-441</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-44</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331468934193254" lon="5.675546228885651">
+      <ele>608.19140625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-451</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-45</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331597093492746" lon="5.674772998318076">
+      <ele>603.78125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-461</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-46</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331598518416286" lon="5.674548866227269">
+      <ele>601.11328125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-471</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-47</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331593237817287" lon="5.674301600083709">
+      <ele>598.1953125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-481</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-48</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.331724498420954" lon="5.673524010926485">
+      <ele>586.73046875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-491</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-49</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332085506990552" lon="5.672675762325525">
+      <ele>574.609375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-501</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-50</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332263873890042" lon="5.67252891138196">
+      <ele>568.96875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-511</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-51</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332474594935775" lon="5.672549363225699">
+      <ele>562.96875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-521</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-52</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332542823627591" lon="5.672507034614682">
+      <ele>560.8515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-531</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-53</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332781037315726" lon="5.671994648873806">
+      <ele>552.59765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-541</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-54</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332954458892345" lon="5.67177152261138">
+      <ele>547.2109375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-551</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-55</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333079181611538" lon="5.671674543991685">
+      <ele>542.77734375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-561</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-56</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333292417228222" lon="5.671190489083529">
+      <ele>535.3515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-571</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-57</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333495929837227" lon="5.671041207388043">
+      <ele>527.82421875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-581</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-58</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333920976147056" lon="5.670327236875892">
+      <ele>515.76953125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-591</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-59</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334277626127005" lon="5.668967524543405">
+      <ele>504.5078125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-601</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-60</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334349542856216" lon="5.668760491535068">
+      <ele>503.26953125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-611</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-61</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334598401561379" lon="5.668231258168817">
+      <ele>499.28515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-621</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-62</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334452137351036" lon="5.667428690940142">
+      <ele>496.25390625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-631</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-63</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334605023264885" lon="5.667046224698424">
+      <ele>493.86328125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-641</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-64</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335207346826792" lon="5.666315071284771">
+      <ele>306.41015625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-651</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-65</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335618562996387" lon="5.665519461035729">
+      <ele>492.17578125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-661</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-66</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335668686777353" lon="5.665409909561276">
+      <ele>490.99609375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-671</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-67</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335823165252805" lon="5.665093492716551">
+      <ele>484.21484375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-681</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-68</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33626464009285" lon="5.66465126350522">
+      <ele>478.203125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-691</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-69</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336884398013353" lon="5.663691367954016">
+      <ele>454.12890625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-701</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-70</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337249848991632" lon="5.663382159546018">
+      <ele>452.73046875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-711</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-71</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337909672409296" lon="5.662249093875289">
+      <ele>425.546875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-721</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-72</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337976895272732" lon="5.662111127749085">
+      <ele>421.14453125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-731</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-73</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338399091735482" lon="5.662041138857603">
+      <ele>419.6875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-741</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-74</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33848643116653" lon="5.662202490493655">
+      <ele>416.6171875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-751</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-75</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338549546897411" lon="5.662560062482953">
+      <ele>417.140625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-761</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-76</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338981634005904" lon="5.662896763533354">
+      <ele>408.8359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-771</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-77</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339179111644626" lon="5.663108406588435">
+      <ele>402.05078125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-781</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-78</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339321184903383" lon="5.663262801244855">
+      <ele>399.15625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-791</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-79</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339238036423922" lon="5.662911431863904">
+      <ele>401.328125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-801</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-80</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33945345133543" lon="5.663051661103964">
+      <ele>396.08984375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-811</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-81</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339625028893352" lon="5.663178563117981">
+      <ele>388.671875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-821</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-82</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339757630601525" lon="5.663272021338344">
+      <ele>385.515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-831</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-83</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340124003589153" lon="5.663481401279569">
+      <ele>383.16796875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-841</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-84</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340664384886622" lon="5.663720620796084">
+      <ele>380.953125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-851</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-85</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-85</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341149277985096" lon="5.663403701037169">
+      <ele>371.57421875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-861</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-86</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-86</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341286908835173" lon="5.663283420726657">
+      <ele>366.98828125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-871</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-87</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-87</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341359244659543" lon="5.663214772939682">
+      <ele>363.98046875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-881</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-88</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-88</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341463599354029" lon="5.66310178488493">
+      <ele>365.46875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-891</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-89</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-89</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342415280640125" lon="5.661646602675319">
+      <ele>342.53125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-901</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-90</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-90</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342998828738928" lon="5.661334712058306">
+      <ele>323.8125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-911</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-91</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-91</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343371823430061" lon="5.661263549700379">
+      <ele>319.36328125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-921</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-92</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-92</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344044135883451" lon="5.662271892651916">
+      <ele>312.97265625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-931</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-93</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-93</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344073556363583" lon="5.662365350872278">
+      <ele>312.02734375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-941</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-94</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-94</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344118818640709" lon="5.662482446059585">
+      <ele>310.16796875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-951</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-95</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-95</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344136672094464" lon="5.662519074976444">
+      <ele>309.3515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-961</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-96</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-96</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344128206372261" lon="5.662575820460916">
+      <ele>309.28125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-971</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-97</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-97</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344109179452062" lon="5.662601636722684">
+      <ele>309.8515625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-981</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-98</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-98</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343951851129532" lon="5.662750583142042">
+      <ele>317.05078125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-991</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-99</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-99</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343694945797324" lon="5.662903133779764">
+      <ele>331.19921875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1001</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-100</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-100</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343202928081155" lon="5.663240924477577">
+      <ele>366.5234375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1011</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-101</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-101</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343519764021039" lon="5.663054846227169">
+      <ele>343.6796875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1021</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-102</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-102</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344339933246374" lon="5.662835156545043">
+      <ele>309.390625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1031</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-103</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-103</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344719130545855" lon="5.663589695468545">
+      <ele>298.77734375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1041</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-104</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-104</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344715191051364" lon="5.664125634357333">
+      <ele>293.2578125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1051</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-105</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-105</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34490311332047" lon="5.664653442800045">
+      <ele>291.421875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1061</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-106</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-106</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.345343917608261" lon="5.665064910426736">
+      <ele>284.49609375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1071</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-107</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-107</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.345579700544477" lon="5.665075136348605">
+      <ele>285.578125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1081</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-108</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-108</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346330802887678" lon="5.665491633117199">
+      <ele>277.59765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1091</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-109</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-109</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346716705709696" lon="5.66550244577229">
+      <ele>274.30078125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1101</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-110</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-110</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34689867682755" lon="5.665458105504513">
+      <ele>271.66796875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1111</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-111</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-111</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347218949347734" lon="5.665586013346911">
+      <ele>273.84765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1121</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-112</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-112</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348026378080249" lon="5.66505677998066">
+      <ele>271.43359375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1131</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-113</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-113</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348332149907947" lon="5.664462251588702">
+      <ele>270.09375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1141</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-114</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-114</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348353775218129" lon="5.664127729833126">
+      <ele>268.484375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1151</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-115</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-115</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34853608161211" lon="5.663735372945666">
+      <ele>265.96875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1161</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-116</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-116</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34922700189054" lon="5.663101701065898">
+      <ele>267.59765625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1171</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-117</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-117</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349416432902217" lon="5.663096169009805">
+      <ele>269.33984375</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1181</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-118</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-118</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349647102877498" lon="5.662968009710312">
+      <ele>268.54296875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1191</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-119</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-119</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349821614101529" lon="5.662531731650233">
+      <ele>262.1640625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1201</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-120</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-120</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34975958801806" lon="5.662176171317697">
+      <ele>256.890625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1211</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-121</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-121</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349732263013721" lon="5.661974418908358">
+      <ele>254.578125</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1221</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-122</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-122</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349608881399035" lon="5.660634823143482">
+      <ele>245.171875</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1231</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-123</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-123</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.3496711589396" lon="5.660578245297074">
+      <ele>243.9140625</ele>
+      <time>2016-03-29T08:15:45Z</time>
+      <name>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-1241</name>
+      <cmt>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-124</cmt>
+      <desc>Circuit intégral du haut des Adrets aux Encanaux par ravin des Infernets-124</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

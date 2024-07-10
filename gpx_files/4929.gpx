@@ -1,0 +1,958 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2013-01-05T17:29:47Z</time>
+    <bounds maxlat="43.710108166560531" maxlon="5.061452547088265" minlat="43.699553338810802" minlon="5.059221535921097" />
+  </metadata>
+
+  <trk>
+    <name>La Machouette</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.699553338810802" lon="5.059359334409237">
+        <ele>305.83999999999997</ele>
+        <time>2013-01-04T10:29:56Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.699632966890931" lon="5.059394706040621">
+        <ele>305.83999999999997</ele>
+        <time>2013-01-04T10:30:07Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.699704883620143" lon="5.059417588636279">
+        <ele>302.47000000000003</ele>
+        <time>2013-01-04T10:30:26Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.699776967987418" lon="5.059503084048629">
+        <ele>298.63</ele>
+        <time>2013-01-04T10:30:41Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.699878556653857" lon="5.059538623318076">
+        <ele>293.33999999999997</ele>
+        <time>2013-01-04T10:30:51Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700000764802098" lon="5.05947433412075">
+        <ele>289.00999999999999</ele>
+        <time>2013-01-04T10:31:00Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700104197487235" lon="5.059446841478348">
+        <ele>287.08999999999997</ele>
+        <time>2013-01-04T10:31:07Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700180891901255" lon="5.059363609179854">
+        <ele>285.17000000000002</ele>
+        <time>2013-01-04T10:31:14Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700280468910933" lon="5.059325471520424">
+        <ele>283.73000000000002</ele>
+        <time>2013-01-04T10:31:24Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700380465015769" lon="5.059410631656647">
+        <ele>280.83999999999997</ele>
+        <time>2013-01-04T10:31:31Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700484735891223" lon="5.059490511193872">
+        <ele>277.48000000000002</ele>
+        <time>2013-01-04T10:31:38Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70059504173696" lon="5.059518339112401">
+        <ele>276.04000000000002</ele>
+        <time>2013-01-04T10:31:43Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700703084468842" lon="5.05954222753644">
+        <ele>273.14999999999998</ele>
+        <time>2013-01-04T10:31:49Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700828226283193" lon="5.059537785127759">
+        <ele>270.75</ele>
+        <time>2013-01-04T10:31:56Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.700945489108562" lon="5.059499815106392">
+        <ele>269.31</ele>
+        <time>2013-01-04T10:32:01Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701050849631429" lon="5.059419935569167">
+        <ele>267.38</ele>
+        <time>2013-01-04T10:32:06Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701140787452459" lon="5.059345252811909">
+        <ele>265.94</ele>
+        <time>2013-01-04T10:32:10Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701249836012721" lon="5.059317341074348">
+        <ele>264.01999999999998</ele>
+        <time>2013-01-04T10:32:15Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701360728591681" lon="5.059331087395549">
+        <ele>261.62</ele>
+        <time>2013-01-04T10:32:21Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701480254530907" lon="5.05931306630373">
+        <ele>260.17000000000002</ele>
+        <time>2013-01-04T10:32:26Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701584525406361" lon="5.059278700500727">
+        <ele>259.20999999999998</ele>
+        <time>2013-01-04T10:32:31Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701684270054102" lon="5.059246011078358">
+        <ele>257.76999999999998</ele>
+        <time>2013-01-04T10:32:34Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701815446838737" lon="5.059294207021594">
+        <ele>255.37</ele>
+        <time>2013-01-04T10:32:42Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.701938325539231" lon="5.059342319145799">
+        <ele>252.47999999999999</ele>
+        <time>2013-01-04T10:32:47Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70205651037395" lon="5.059366459026933">
+        <ele>252</ele>
+        <time>2013-01-04T10:32:51Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70215717703104" lon="5.059454217553139">
+        <ele>249.59999999999999</ele>
+        <time>2013-01-04T10:32:56Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702256418764591" lon="5.05954759195447">
+        <ele>247.19999999999999</ele>
+        <time>2013-01-04T10:33:00Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702329760417342" lon="5.05966292694211">
+        <ele>245.75</ele>
+        <time>2013-01-04T10:33:03Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702432438731194" lon="5.059739034622908">
+        <ele>245.27000000000001</ele>
+        <time>2013-01-04T10:33:06Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702548779547215" lon="5.059841210022569">
+        <ele>242.87</ele>
+        <time>2013-01-04T10:33:10Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702660342678428" lon="5.05989988334477">
+        <ele>240.94999999999999</ele>
+        <time>2013-01-04T10:33:14Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702764362096786" lon="5.060018906369805">
+        <ele>239.02000000000001</ele>
+        <time>2013-01-04T10:33:18Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702884390950203" lon="5.060099791735411">
+        <ele>236.62</ele>
+        <time>2013-01-04T10:33:22Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.702995367348194" lon="5.060175228863955">
+        <ele>234.69999999999999</ele>
+        <time>2013-01-04T10:33:25Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703104583546519" lon="5.060251085087657">
+        <ele>233.25999999999999</ele>
+        <time>2013-01-04T10:33:28Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703221511095762" lon="5.060339095070958">
+        <ele>232.30000000000001</ele>
+        <time>2013-01-04T10:33:31Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703344222158194" lon="5.06042517721653">
+        <ele>229.88999999999999</ele>
+        <time>2013-01-04T10:33:34Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703472716733813" lon="5.060557192191482">
+        <ele>227.97</ele>
+        <time>2013-01-04T10:33:37Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703570533543825" lon="5.060640089213848">
+        <ele>226.05000000000001</ele>
+        <time>2013-01-04T10:33:39Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703661561012268" lon="5.06070613861084">
+        <ele>225.09</ele>
+        <time>2013-01-04T10:33:41Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703754181042314" lon="5.060790125280619">
+        <ele>223.63999999999999</ele>
+        <time>2013-01-04T10:33:43Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703851578757167" lon="5.060875620692968">
+        <ele>223.63999999999999</ele>
+        <time>2013-01-04T10:33:45Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.703968925401568" lon="5.060941921547055">
+        <ele>221.24000000000001</ele>
+        <time>2013-01-04T10:33:48Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704076549038291" lon="5.060953656211495">
+        <ele>219.80000000000001</ele>
+        <time>2013-01-04T10:33:50Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704171683639288" lon="5.06097829900682">
+        <ele>218.36000000000001</ele>
+        <time>2013-01-04T10:33:52Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704273356124759" lon="5.061019789427519">
+        <ele>217.40000000000001</ele>
+        <time>2013-01-04T10:33:54Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704373855143785" lon="5.061050383374095">
+        <ele>216.43000000000001</ele>
+        <time>2013-01-04T10:33:56Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704492542892694" lon="5.061096148565412">
+        <ele>214.99000000000001</ele>
+        <time>2013-01-04T10:33:58Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704643249511719" lon="5.061151217669249">
+        <ele>213.55000000000001</ele>
+        <time>2013-01-04T10:34:01Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704761853441596" lon="5.061194552108645">
+        <ele>212.59</ele>
+        <time>2013-01-04T10:34:04Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.704875176772475" lon="5.061298152431846">
+        <ele>210.19</ele>
+        <time>2013-01-04T10:34:08Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705006605014205" lon="5.061339475214481">
+        <ele>209.22</ele>
+        <time>2013-01-04T10:34:11Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705113306641579" lon="5.061324136331677">
+        <ele>208.25999999999999</ele>
+        <time>2013-01-04T10:34:13Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705220511183143" lon="5.061326818540692">
+        <ele>207.30000000000001</ele>
+        <time>2013-01-04T10:34:15Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705330565571785" lon="5.061338720843196">
+        <ele>206.81999999999999</ele>
+        <time>2013-01-04T10:34:17Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705476997420192" lon="5.061364704743028">
+        <ele>204.90000000000001</ele>
+        <time>2013-01-04T10:34:20Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705575065687299" lon="5.061393957585096">
+        <ele>203.94</ele>
+        <time>2013-01-04T10:34:22Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705711774528027" lon="5.061422204598784">
+        <ele>203.46000000000001</ele>
+        <time>2013-01-04T10:34:25Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705848399549723" lon="5.061452547088265">
+        <ele>202.00999999999999</ele>
+        <time>2013-01-04T10:34:28Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.705981252714992" lon="5.061443326994777">
+        <ele>200.56999999999999</ele>
+        <time>2013-01-04T10:34:31Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706091390922666" lon="5.061370320618153">
+        <ele>198.65000000000001</ele>
+        <time>2013-01-04T10:34:35Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70615316554904" lon="5.061269570142031">
+        <ele>194.80000000000001</ele>
+        <time>2013-01-04T10:34:39Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706214856356382" lon="5.061132106930018">
+        <ele>192.40000000000001</ele>
+        <time>2013-01-04T10:34:43Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706293813884258" lon="5.060996739193797">
+        <ele>190</ele>
+        <time>2013-01-04T10:34:50Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706343099474907" lon="5.060870172455907">
+        <ele>187.11000000000001</ele>
+        <time>2013-01-04T10:34:54Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706438988447189" lon="5.060751987621188">
+        <ele>184.22999999999999</ele>
+        <time>2013-01-04T10:34:58Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70652842335403" lon="5.060633886605501">
+        <ele>181.34999999999999</ele>
+        <time>2013-01-04T10:35:05Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706641159951687" lon="5.060541601851583">
+        <ele>177.97999999999999</ele>
+        <time>2013-01-04T10:35:11Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706743167713284" lon="5.060461051762104">
+        <ele>177.02000000000001</ele>
+        <time>2013-01-04T10:35:14Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.706854730844498" lon="5.060367844998837">
+        <ele>175.09999999999999</ele>
+        <time>2013-01-04T10:35:17Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707009879872203" lon="5.060239266604185">
+        <ele>173.16999999999999</ele>
+        <time>2013-01-04T10:35:20Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707110546529293" lon="5.060143293812871">
+        <ele>172.69</ele>
+        <time>2013-01-04T10:35:22Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707217331975698" lon="5.060034245252609">
+        <ele>171.72999999999999</ele>
+        <time>2013-01-04T10:35:25Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707287907600403" lon="5.059861494228244">
+        <ele>169.81</ele>
+        <time>2013-01-04T10:35:28Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707343814894557" lon="5.059724450111389">
+        <ele>168.84999999999999</ele>
+        <time>2013-01-04T10:35:30Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70741824619472" lon="5.059645744040608">
+        <ele>167.88999999999999</ele>
+        <time>2013-01-04T10:35:32Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70751891285181" lon="5.059615569189191">
+        <ele>167.41</ele>
+        <time>2013-01-04T10:35:34Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707615723833442" lon="5.059581957757473">
+        <ele>166.93000000000001</ele>
+        <time>2013-01-04T10:35:36Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707740195095539" lon="5.059601906687021">
+        <ele>166.44999999999999</ele>
+        <time>2013-01-04T10:35:39Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.707863409072161" lon="5.059658568352461">
+        <ele>164.52000000000001</ele>
+        <time>2013-01-04T10:35:42Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70796550065279" lon="5.059682289138436">
+        <ele>163.56</ele>
+        <time>2013-01-04T10:35:44Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708060216158628" lon="5.059704668819904">
+        <ele>163.08000000000001</ele>
+        <time>2013-01-04T10:35:46Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708154177293181" lon="5.059734508395195">
+        <ele>161.63999999999999</ele>
+        <time>2013-01-04T10:35:48Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70827185921371" lon="5.059733334928751">
+        <ele>161.16</ele>
+        <time>2013-01-04T10:35:50Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708397001028061" lon="5.059727467596531">
+        <ele>159.72</ele>
+        <time>2013-01-04T10:35:52Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708512419834733" lon="5.059746410697699">
+        <ele>159.24000000000001</ele>
+        <time>2013-01-04T10:35:55Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70862171985209" lon="5.059767700731754">
+        <ele>156.34999999999999</ele>
+        <time>2013-01-04T10:36:01Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708728589117527" lon="5.059789912775159">
+        <ele>154.43000000000001</ele>
+        <time>2013-01-04T10:36:05Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708853647112846" lon="5.059791337698698">
+        <ele>151.06</ele>
+        <time>2013-01-04T10:36:11Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.708957666531205" lon="5.059667034074664">
+        <ele>148.66</ele>
+        <time>2013-01-04T10:36:16Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70902975089848" lon="5.059567708522081">
+        <ele>146.25999999999999</ele>
+        <time>2013-01-04T10:36:28Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709059674292803" lon="5.059408871456981">
+        <ele>145.30000000000001</ele>
+        <time>2013-01-04T10:37:02Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709099823608994" lon="5.059351623058319">
+        <ele>144.81999999999999</ele>
+        <time>2013-01-04T10:37:43Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709117090329528" lon="5.059221535921097">
+        <ele>143.84999999999999</ele>
+        <time>2013-01-04T10:38:09Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709144415333867" lon="5.059300158172846">
+        <ele>142.41</ele>
+        <time>2013-01-04T10:38:57Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709224462509155" lon="5.05939613096416">
+        <ele>141.44999999999999</ele>
+        <time>2013-01-04T10:39:01Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709327643737197" lon="5.059462850913405">
+        <ele>139.05000000000001</ele>
+        <time>2013-01-04T10:39:04Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709424119442701" lon="5.059504089877009">
+        <ele>138.09</ele>
+        <time>2013-01-04T10:39:08Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70956527069211" lon="5.059559158980846">
+        <ele>136.63999999999999</ele>
+        <time>2013-01-04T10:39:12Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709675325080752" lon="5.059586148709059">
+        <ele>135.19999999999999</ele>
+        <time>2013-01-04T10:39:14Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709779009222984" lon="5.059593105688691">
+        <ele>135.19999999999999</ele>
+        <time>2013-01-04T10:39:16Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.709885543212295" lon="5.059610120952129">
+        <ele>135.68000000000001</ele>
+        <time>2013-01-04T10:39:19Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.70998646132648" lon="5.05962185561657">
+        <ele>135.68000000000001</ele>
+        <time>2013-01-04T10:39:22Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.710108166560531" lon="5.059668375179172">
+        <ele>136.63999999999999</ele>
+        <time>2013-01-04T10:39:32Z</time>
+        <extensions>
+          <gpxx:TrackPointExtension>
+            <gpxx:Temperature>0</gpxx:Temperature>
+          </gpxx:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

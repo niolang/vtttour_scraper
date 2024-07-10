@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2011-09-06T19:22:08Z</time>
+    <bounds maxlat="43.5558884" maxlon="6.9079952" minlat="43.5528431" minlon="6.9057361"/>
+  </metadata>
+
+  <trk>
+    <name>Tracé</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.5557537" lon="6.9077758">
+        <ele>352.7929688</ele>
+      </trkpt>
+      <trkpt lat="43.5555920" lon="6.9075017">
+        <ele>346.3515625</ele>
+      </trkpt>
+      <trkpt lat="43.5554752" lon="6.9072385">
+        <ele>341.0976563</ele>
+      </trkpt>
+      <trkpt lat="43.5556369" lon="6.9073153">
+        <ele>342.8320313</ele>
+      </trkpt>
+      <trkpt lat="43.5557626" lon="6.9073701">
+        <ele>345.7968750</ele>
+      </trkpt>
+      <trkpt lat="43.5558884" lon="6.9072714">
+        <ele>346.3828125</ele>
+      </trkpt>
+      <trkpt lat="43.5557267" lon="6.9072166">
+        <ele>341.7031250</ele>
+      </trkpt>
+      <trkpt lat="43.5555291" lon="6.9069534">
+        <ele>333.9140625</ele>
+      </trkpt>
+      <trkpt lat="43.5548104" lon="6.9062296">
+        <ele>326.4140625</ele>
+      </trkpt>
+      <trkpt lat="43.5544781" lon="6.9058567">
+        <ele>325.1835938</ele>
+      </trkpt>
+      <trkpt lat="43.5541546" lon="6.9057361">
+        <ele>329.1132813</ele>
+      </trkpt>
+      <trkpt lat="43.5539840" lon="6.9057581">
+        <ele>332.0429688</ele>
+      </trkpt>
+      <trkpt lat="43.5536786" lon="6.9060651">
+        <ele>338.1015625</ele>
+      </trkpt>
+      <trkpt lat="43.5533552" lon="6.9065805">
+        <ele>336.0742188</ele>
+      </trkpt>
+      <trkpt lat="43.5530497" lon="6.9071727">
+        <ele>330.0156250</ele>
+      </trkpt>
+      <trkpt lat="43.5528431" lon="6.9079732">
+        <ele>314.6718750</ele>
+      </trkpt>
+      <trkpt lat="43.5528431" lon="6.9079952">
+        <ele>314.1757813</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

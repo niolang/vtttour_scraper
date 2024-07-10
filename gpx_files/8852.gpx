@@ -1,0 +1,921 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-01-24T06:39:00Z</time>
+    <bounds maxlat="43.344251504167914" maxlon="5.548366941511631" minlat="43.323507215827703" minlon="5.526727885007858" />
+  </metadata>
+
+  <rte>
+    <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane c</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.344021672382951" lon="5.548366941511631">
+      <ele>714.25390625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane1</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344251504167914" lon="5.547552891075611">
+      <ele>707.15625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1100</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.344117561355233" lon="5.547244772315025">
+      <ele>710.109375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2100</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343766694888473" lon="5.547379972413182">
+      <ele>711.6171875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3100</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.343380959704518" lon="5.547584407031536">
+      <ele>710.0859375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4100</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34317727945745" lon="5.547602511942387">
+      <ele>707.55078125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-537</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-5</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342947447672486" lon="5.547602763399482">
+      <ele>704.8984375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-610</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-6</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342935042455792" lon="5.546786701306701">
+      <ele>703.47265625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-710</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-7</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342849379405379" lon="5.546606658026576">
+      <ele>701.9609375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-810</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-8</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342385441064835" lon="5.546428374946117">
+      <ele>694.34375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-910</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-9</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.342159800231457" lon="5.546067953109741">
+      <ele>690.796875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1010</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-10</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341940948739648" lon="5.545355910435319">
+      <ele>685.6875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1110</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-11</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341528894379735" lon="5.545483231544495">
+      <ele>680.22265625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1210</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-12</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341354969888926" lon="5.54602193646133">
+      <ele>677.80859375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1310</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-13</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341521266847849" lon="5.54658830165863">
+      <ele>679.5078125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1410</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-14</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.341269306838512" lon="5.546912010759115">
+      <ele>676.22265625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1510</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-15</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34047663025558" lon="5.547357257455587">
+      <ele>663.52734375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1610</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-16</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.340197848156095" lon="5.547374524176121">
+      <ele>658.6875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1710</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-17</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339934153482318" lon="5.547339404001832">
+      <ele>653.01171875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1810</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-18</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.339548753574491" lon="5.546104833483696">
+      <ele>630.9453125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-1910</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-19</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33914558403194" lon="5.545906601473689">
+      <ele>621.4296875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2010</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-20</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338831597939134" lon="5.545411566272378">
+      <ele>616.015625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2110</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-21</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338767644017935" lon="5.544973611831665">
+      <ele>613.98046875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2210</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-22</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338394481688738" lon="5.544684436172247">
+      <ele>607.2734375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2310</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-23</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.338350979611278" lon="5.544648477807641">
+      <ele>606.453125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2410</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-24</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337917886674404" lon="5.544079598039389">
+      <ele>595.453125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2510</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-25</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.337866337969899" lon="5.544017236679792">
+      <ele>593.79296875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2610</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-26</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33709143102169" lon="5.543693527579308">
+      <ele>566.13671875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2710</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-27</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336824886500835" lon="5.543719930574298">
+      <ele>560.3828125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2810</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-28</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33670100197196" lon="5.543559417128563">
+      <ele>558.05859375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-2910</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-29</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33664576523006" lon="5.543488338589668">
+      <ele>556.4921875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3010</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-30</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336553564295173" lon="5.543382475152612">
+      <ele>553.3828125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3110</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-31</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336434960365295" lon="5.543224811553955">
+      <ele>548.76953125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3210</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-32</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.336220132187009" lon="5.542322583496571">
+      <ele>540.70703125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3310</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-33</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.33581562153995" lon="5.541737694293261">
+      <ele>524.89453125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3410</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-34</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335319831967354" lon="5.540451910346746">
+      <ele>505.2734375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3510</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-35</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335162922739983" lon="5.540353925898671">
+      <ele>505.25390625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3610</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-36</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.335060495883226" lon="5.540276309475303">
+      <ele>506.23828125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3710</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-37</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334814738482237" lon="5.539744812995195">
+      <ele>498.25390625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3810</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-38</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334708539769053" lon="5.539641631767154">
+      <ele>497.44140625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-3910</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-39</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334606029093266" lon="5.539516741409898">
+      <ele>497.30859375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4010</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-40</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334416095167398" lon="5.539270145818591">
+      <ele>494.84375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4110</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-41</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.334331857040524" lon="5.539171155542135">
+      <ele>493.609375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4210</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-42</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333243718370795" lon="5.536435805261135">
+      <ele>467.65625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4310</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-43</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.333051772788167" lon="5.535975890234113">
+      <ele>465.03125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4410</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-44</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.332396810874343" lon="5.535165779292584">
+      <ele>469.33203125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4510</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-45</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.3323541469872" lon="5.535123199224472">
+      <ele>468.98046875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4610</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-46</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.330626888200641" lon="5.534714329987764">
+      <ele>448.1875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4710</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-47</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.330454975366592" lon="5.534523893147707">
+      <ele>442.55859375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4810</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-48</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.329999586567283" lon="5.533588724210858">
+      <ele>420.15625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-4910</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-49</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.329615192487836" lon="5.532761346548796">
+      <ele>403.30078125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-5010</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-50</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.328894851729274" lon="5.531612355262041">
+      <ele>404.4140625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-5110</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-51</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.328521773219109" lon="5.530686657875776">
+      <ele>389.6875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-5210</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-52</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.328139055520296" lon="5.530265299603343">
+      <ele>381.87109375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-538</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-53</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.328027240931988" lon="5.529998419806361">
+      <ele>375.97265625</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-541</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-54</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.327561290934682" lon="5.529125444591045">
+      <ele>358.76171875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-551</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-55</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.327479399740696" lon="5.528945485129952">
+      <ele>354.296875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-561</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-56</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.326657386496663" lon="5.528217768296599">
+      <ele>348.88671875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-571</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-57</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.325684415176511" lon="5.527239181101322">
+      <ele>338.23828125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-581</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-58</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.325427509844303" lon="5.526911867782474">
+      <ele>332.68359375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-591</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-59</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.325323071330786" lon="5.526727885007858">
+      <ele>328.96875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-601</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-60</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.324903724715114" lon="5.526776164770126">
+      <ele>330.85546875</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-611</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-61</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.324648831039667" lon="5.526935756206513">
+      <ele>333.4609375</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-621</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-62</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.323507215827703" lon="5.52733339369297">
+      <ele>332.8203125</ele>
+      <time>2016-01-24T06:38:37Z</time>
+      <name>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-631</name>
+      <cmt>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-63</cmt>
+      <desc>Vallon des Piches /  Butte des Pinsots -&gt; Col d'aubignane-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

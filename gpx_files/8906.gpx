@@ -1,0 +1,1313 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-09T16:29:01Z</time>
+    <bounds maxlat="43.357868744060397" maxlon="5.776580516248941" minlat="43.348234500735998" minlon="5.746531561017036" />
+  </metadata>
+
+  <rte>
+    <name>Circuit autour des sources de l'huveaune ( max de singles)</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.353290548548102" lon="5.776580516248941">
+      <ele>427.6875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352248510345817" lon="5.775677114725113">
+      <ele>436.48046875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-1</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-1</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352151028811932" lon="5.775426663458347">
+      <ele>437.72265625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-2</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-2</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352142898365855" lon="5.77538282610476">
+      <ele>437.79296875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-3</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-3</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352195452898741" lon="5.772343799471855">
+      <ele>445.46875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-4</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-4</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352080956101418" lon="5.771719180047512">
+      <ele>447.99609375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-5</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-5</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351264391094446" lon="5.768821891397238">
+      <ele>469.4921875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-6</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-6</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351378049701452" lon="5.768426014110446">
+      <ele>468.98828125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-7</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-7</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351508472114801" lon="5.76781589537859">
+      <ele>473.76171875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-8</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-8</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351428676396608" lon="5.767601234838367">
+      <ele>474.66796875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-9</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-9</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350979741662741" lon="5.766629436984658">
+      <ele>475.79296875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-10</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-10</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350905980914831" lon="5.766229955479503">
+      <ele>472.46875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-11</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-11</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351035732775927" lon="5.766130378469825">
+      <ele>471.9375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-12</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-12</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350787376984954" lon="5.765638193115592">
+      <ele>466.68359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-13</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-13</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350768852978945" lon="5.76539327390492">
+      <ele>464.59765625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-14</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-14</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350722920149565" lon="5.765240807086229">
+      <ele>463.7265625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-15</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-15</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350583026185632" lon="5.765028409659863">
+      <ele>462.40625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-16</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-16</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350549917668104" lon="5.764818275347352">
+      <ele>459.98046875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-17</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-17</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350283540785313" lon="5.764730684459209">
+      <ele>459.05078125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-18</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-18</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350122440606356" lon="5.764761865139008">
+      <ele>460.39453125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-19</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-19</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349334206432104" lon="5.764428516849876">
+      <ele>460.10546875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-20</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-20</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348863814026117" lon="5.764228357002139">
+      <ele>459.44921875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-21</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-21</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348234500735998" lon="5.764174545183778">
+      <ele>464.70703125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-22</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-22</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348423764109612" lon="5.764004476368427">
+      <ele>462.58984375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-23</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-23</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349339235574007" lon="5.763857373967767">
+      <ele>453.81640625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-24</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-24</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349512908607721" lon="5.763791743665934">
+      <ele>451.2109375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-25</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-25</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349726982414722" lon="5.763572305440903">
+      <ele>448.70703125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-26</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-26</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349798563867807" lon="5.763482702895999">
+      <ele>448.89453125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-27</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-27</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34998338483274" lon="5.763333337381482">
+      <ele>448.109375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-28</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-28</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350158650428057" lon="5.762418620288372">
+      <ele>442.6796875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-29</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-29</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350428128615022" lon="5.762230530381203">
+      <ele>440.1953125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-30</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-30</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350532567128539" lon="5.761806070804596">
+      <ele>439.28515625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-31</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-31</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350527873262763" lon="5.761701045557857">
+      <ele>439.1953125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-32</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-32</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350570620968938" lon="5.761457970365882">
+      <ele>438.80859375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-33</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-33</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350625270977616" lon="5.761366272345185">
+      <ele>438.36328125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-34</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-34</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350975634530187" lon="5.760371088981628">
+      <ele>431.69921875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-35</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-35</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350873459130526" lon="5.759588303044438">
+      <ele>433.3359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-36</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-36</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350636921823025" lon="5.758364796638489">
+      <ele>442.63671875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-37</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-37</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350042896345258" lon="5.757071133702993">
+      <ele>458.9296875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-38</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-38</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349862769246101" lon="5.756182400509715">
+      <ele>465.04296875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-39</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-39</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349831085652113" lon="5.75601065531373">
+      <ele>466.1796875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-40</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-40</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349752128124237" lon="5.753650479018688">
+      <ele>484.7890625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-41</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-41</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349862433969975" lon="5.752974059432745">
+      <ele>491.375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-42</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-42</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350028144195676" lon="5.752784293144941">
+      <ele>493.984375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-43</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-43</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350227801129222" lon="5.753136500716209">
+      <ele>491.171875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-44</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-44</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350252024829388" lon="5.753274131566286">
+      <ele>489.9765625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-45</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-45</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350281612947583" lon="5.753901014104486">
+      <ele>484.49609375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-46</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-46</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350318158045411" lon="5.75432195328176">
+      <ele>479.9765625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-47</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-47</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350440785288811" lon="5.754629150032997">
+      <ele>478.0390625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-48</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-48</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350611021742225" lon="5.7551159709692">
+      <ele>471.90625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-49</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-49</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350630132481456" lon="5.755666578188539">
+      <ele>461.3984375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-50</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-50</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35148542188108" lon="5.757129387930036">
+      <ele>448.31640625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-51</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-51</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351665884256363" lon="5.757402135059238">
+      <ele>447.03125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-52</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-52</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352465936914086" lon="5.757833635434508">
+      <ele>448.9140625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-53</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-53</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.352779587730765" lon="5.758006470277906">
+      <ele>443.33203125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-54</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-54</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353133052587509" lon="5.757890297099948">
+      <ele>441.421875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-55</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-55</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353322818875313" lon="5.757404817268252">
+      <ele>442.15625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-56</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-56</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353320388123393" lon="5.756912464275956">
+      <ele>444.92578125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-57</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-57</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353348299860954" lon="5.756616331636906">
+      <ele>446.18359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-58</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-58</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353949701413512" lon="5.756540894508362">
+      <ele>435.5078125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-59</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-59</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354063779115677" lon="5.756307793781161">
+      <ele>435.98046875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-60</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-60</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354140557348728" lon="5.756024485453963">
+      <ele>437.89453125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-61</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-61</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354217503219843" lon="5.755467005074024">
+      <ele>443.75390625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-62</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-62</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354409784078598" lon="5.755509752780199">
+      <ele>440.171875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-63</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-63</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354842709377408" lon="5.755185792222619">
+      <ele>439.3984375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-64</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-64</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355273203924298" lon="5.754611883312464">
+      <ele>439.8359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-65</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-65</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355584088712931" lon="5.753698591142893">
+      <ele>442.6640625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-66</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-66</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35593294352293" lon="5.753057794645429">
+      <ele>443.125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-67</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-67</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356067473068833" lon="5.751966387033463">
+      <ele>443.546875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-68</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-68</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355809478089213" lon="5.75117563828826">
+      <ele>445.01953125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-69</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-69</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355963453650475" lon="5.750175006687641">
+      <ele>440.47265625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-70</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-70</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355896314606071" lon="5.749487858265638">
+      <ele>442.9375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-71</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-71</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35578634403646" lon="5.749014280736446">
+      <ele>442.8671875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-72</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-72</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355332966893911" lon="5.748869022354484">
+      <ele>446.0625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-73</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-73</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355004396289587" lon="5.74796193279326">
+      <ele>438.8671875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-74</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-74</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354707844555378" lon="5.747806867584586">
+      <ele>439.39453125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-75</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-75</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.35450416430831" lon="5.747707793489099">
+      <ele>439.8046875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-76</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-76</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354080626741052" lon="5.747488774359226">
+      <ele>439.37109375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-77</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-77</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.353897649794817" lon="5.747207393869758">
+      <ele>435.6484375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-78</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-78</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354156818240881" lon="5.746531561017036">
+      <ele>430.203125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-79</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-79</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.354980507865548" lon="5.746602052822709">
+      <ele>430.390625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-80</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-80</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.355426425114274" lon="5.746891563758254">
+      <ele>427.89453125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-81</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-81</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356505762785673" lon="5.747193563729525">
+      <ele>424.484375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-82</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-82</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356568878516555" lon="5.747399423271418">
+      <ele>423.7734375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-83</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-83</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356371652334929" lon="5.747430017217994">
+      <ele>422.05078125</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-84</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-84</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356422614306211" lon="5.747637217864394">
+      <ele>421.47265625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-85</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-85</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-85</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.356563933193684" lon="5.748091852292419">
+      <ele>422.05859375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-86</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-86</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-86</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.357096686959267" lon="5.75109257362783">
+      <ele>416.98046875</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-87</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-87</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-87</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.357383096590638" lon="5.751839820295572">
+      <ele>414.93359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-88</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-88</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-88</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.3575957454741" lon="5.752013409510255">
+      <ele>413.0390625</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-89</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-89</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-89</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.357781488448381" lon="5.752232847735286">
+      <ele>411.40234375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-90</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-90</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-90</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.357868744060397" lon="5.752361845225096">
+      <ele>410.3359375</ele>
+      <time>2016-03-09T16:28:49Z</time>
+      <name>Circuit autour des sources de l'huveaune ( max de singles)-91</name>
+      <cmt>Circuit autour des sources de l'huveaune ( max de singles)-91</cmt>
+      <desc>Circuit autour des sources de l'huveaune ( max de singles)-91</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

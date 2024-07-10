@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2017-06-11T14:43:48Z</time>
+    <bounds maxlat="43.289578696712852" maxlon="5.661823125556111" minlat="43.279382279142737" minlon="5.649240799248219" />
+  </metadata>
+
+  <rte>
+    <name>Spé 2 VV2017 Le paradou 2</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.279382279142737" lon="5.657821856439114">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou2</name>
+      <cmt>Spé 2 VV2017 Le paradou</cmt>
+      <desc>Spé 2 VV2017 Le paradou</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.279513036832213" lon="5.657915230840445">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-190</name>
+      <cmt>Spé 2 VV2017 Le paradou-1</cmt>
+      <desc>Spé 2 VV2017 Le paradou-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.27954170294106" lon="5.657944735139608">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2102</name>
+      <cmt>Spé 2 VV2017 Le paradou-2</cmt>
+      <desc>Spé 2 VV2017 Le paradou-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.279898352921009" lon="5.65721919760108">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-390</name>
+      <cmt>Spé 2 VV2017 Le paradou-3</cmt>
+      <desc>Spé 2 VV2017 Le paradou-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.280404452234507" lon="5.657425979152322">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-412</name>
+      <cmt>Spé 2 VV2017 Le paradou-4</cmt>
+      <desc>Spé 2 VV2017 Le paradou-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.280448541045189" lon="5.657634101808071">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-512</name>
+      <cmt>Spé 2 VV2017 Le paradou-5</cmt>
+      <desc>Spé 2 VV2017 Le paradou-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.280612323433161" lon="5.659160781651735">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-612</name>
+      <cmt>Spé 2 VV2017 Le paradou-6</cmt>
+      <desc>Spé 2 VV2017 Le paradou-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.280913569033146" lon="5.6595528870821">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-712</name>
+      <cmt>Spé 2 VV2017 Le paradou-7</cmt>
+      <desc>Spé 2 VV2017 Le paradou-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.281416902318597" lon="5.660002492368221">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-812</name>
+      <cmt>Spé 2 VV2017 Le paradou-8</cmt>
+      <desc>Spé 2 VV2017 Le paradou-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.281792914494872" lon="5.660068206489086">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-912</name>
+      <cmt>Spé 2 VV2017 Le paradou-9</cmt>
+      <desc>Spé 2 VV2017 Le paradou-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.281853850930929" lon="5.660082288086414">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1012</name>
+      <cmt>Spé 2 VV2017 Le paradou-10</cmt>
+      <desc>Spé 2 VV2017 Le paradou-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.281915290281177" lon="5.660193851217628">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1112</name>
+      <cmt>Spé 2 VV2017 Le paradou-11</cmt>
+      <desc>Spé 2 VV2017 Le paradou-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.281988799571991" lon="5.660194018855691">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1212</name>
+      <cmt>Spé 2 VV2017 Le paradou-12</cmt>
+      <desc>Spé 2 VV2017 Le paradou-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.282201616093516" lon="5.660145990550518">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1312</name>
+      <cmt>Spé 2 VV2017 Le paradou-13</cmt>
+      <desc>Spé 2 VV2017 Le paradou-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.282561954110861" lon="5.660888710990548">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1412</name>
+      <cmt>Spé 2 VV2017 Le paradou-14</cmt>
+      <desc>Spé 2 VV2017 Le paradou-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.28297627158463" lon="5.661247204989195">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1512</name>
+      <cmt>Spé 2 VV2017 Le paradou-15</cmt>
+      <desc>Spé 2 VV2017 Le paradou-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.283758219331503" lon="5.661251731216908">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1612</name>
+      <cmt>Spé 2 VV2017 Le paradou-16</cmt>
+      <desc>Spé 2 VV2017 Le paradou-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.284356771036983" lon="5.661513162776828">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1712</name>
+      <cmt>Spé 2 VV2017 Le paradou-17</cmt>
+      <desc>Spé 2 VV2017 Le paradou-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.284548632800579" lon="5.661575775593519">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1810</name>
+      <cmt>Spé 2 VV2017 Le paradou-18</cmt>
+      <desc>Spé 2 VV2017 Le paradou-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.284912658855319" lon="5.661823125556111">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-1910</name>
+      <cmt>Spé 2 VV2017 Le paradou-19</cmt>
+      <desc>Spé 2 VV2017 Le paradou-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285251706838608" lon="5.661763362586498">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2012</name>
+      <cmt>Spé 2 VV2017 Le paradou-20</cmt>
+      <desc>Spé 2 VV2017 Le paradou-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285336783155799" lon="5.661771493032575">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2112</name>
+      <cmt>Spé 2 VV2017 Le paradou-21</cmt>
+      <desc>Spé 2 VV2017 Le paradou-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285705503076315" lon="5.661294143646956">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2212</name>
+      <cmt>Spé 2 VV2017 Le paradou-22</cmt>
+      <desc>Spé 2 VV2017 Le paradou-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285593520849943" lon="5.660888124257326">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2312</name>
+      <cmt>Spé 2 VV2017 Le paradou-23</cmt>
+      <desc>Spé 2 VV2017 Le paradou-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285311888903379" lon="5.660359980538487">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2412</name>
+      <cmt>Spé 2 VV2017 Le paradou-24</cmt>
+      <desc>Spé 2 VV2017 Le paradou-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285714806988835" lon="5.660177003592253">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2512</name>
+      <cmt>Spé 2 VV2017 Le paradou-25</cmt>
+      <desc>Spé 2 VV2017 Le paradou-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285779347643256" lon="5.660033337771893">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2612</name>
+      <cmt>Spé 2 VV2017 Le paradou-26</cmt>
+      <desc>Spé 2 VV2017 Le paradou-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285867944359779" lon="5.660058902576566">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2712</name>
+      <cmt>Spé 2 VV2017 Le paradou-27</cmt>
+      <desc>Spé 2 VV2017 Le paradou-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286006497219205" lon="5.66009134054184">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2812</name>
+      <cmt>Spé 2 VV2017 Le paradou-28</cmt>
+      <desc>Spé 2 VV2017 Le paradou-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285709274932742" lon="5.659534279257059">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-2912</name>
+      <cmt>Spé 2 VV2017 Le paradou-29</cmt>
+      <desc>Spé 2 VV2017 Le paradou-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285666611045599" lon="5.659434283152223">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3012</name>
+      <cmt>Spé 2 VV2017 Le paradou-30</cmt>
+      <desc>Spé 2 VV2017 Le paradou-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285632329061627" lon="5.658980067819357">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3112</name>
+      <cmt>Spé 2 VV2017 Le paradou-31</cmt>
+      <desc>Spé 2 VV2017 Le paradou-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285614056512713" lon="5.658675385639072">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3212</name>
+      <cmt>Spé 2 VV2017 Le paradou-32</cmt>
+      <desc>Spé 2 VV2017 Le paradou-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285556975752115" lon="5.657861586660147">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3312</name>
+      <cmt>Spé 2 VV2017 Le paradou-33</cmt>
+      <desc>Spé 2 VV2017 Le paradou-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.285539792850614" lon="5.657283486798406">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3412</name>
+      <cmt>Spé 2 VV2017 Le paradou-34</cmt>
+      <desc>Spé 2 VV2017 Le paradou-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.28597841784358" lon="5.657841637730598">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3512</name>
+      <cmt>Spé 2 VV2017 Le paradou-35</cmt>
+      <desc>Spé 2 VV2017 Le paradou-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286122251302004" lon="5.65802838653326">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3612</name>
+      <cmt>Spé 2 VV2017 Le paradou-36</cmt>
+      <desc>Spé 2 VV2017 Le paradou-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286197269335389" lon="5.658113043755293">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3712</name>
+      <cmt>Spé 2 VV2017 Le paradou-37</cmt>
+      <desc>Spé 2 VV2017 Le paradou-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286284441128373" lon="5.658202897757292">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-3810</name>
+      <cmt>Spé 2 VV2017 Le paradou-38</cmt>
+      <desc>Spé 2 VV2017 Le paradou-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286407152190804" lon="5.65823458135128">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-392</name>
+      <cmt>Spé 2 VV2017 Le paradou-39</cmt>
+      <desc>Spé 2 VV2017 Le paradou-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.28660286962986" lon="5.657727811485529">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-402</name>
+      <cmt>Spé 2 VV2017 Le paradou-40</cmt>
+      <desc>Spé 2 VV2017 Le paradou-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286657184362411" lon="5.656140530481935">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-413</name>
+      <cmt>Spé 2 VV2017 Le paradou-41</cmt>
+      <desc>Spé 2 VV2017 Le paradou-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286451743915677" lon="5.65464117564261">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-422</name>
+      <cmt>Spé 2 VV2017 Le paradou-42</cmt>
+      <desc>Spé 2 VV2017 Le paradou-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.286289386451244" lon="5.654274886474013">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-432</name>
+      <cmt>Spé 2 VV2017 Le paradou-43</cmt>
+      <desc>Spé 2 VV2017 Le paradou-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287017270922661" lon="5.653363689780235">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-442</name>
+      <cmt>Spé 2 VV2017 Le paradou-44</cmt>
+      <desc>Spé 2 VV2017 Le paradou-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287138473242521" lon="5.653097731992602">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-452</name>
+      <cmt>Spé 2 VV2017 Le paradou-45</cmt>
+      <desc>Spé 2 VV2017 Le paradou-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.28722832724452" lon="5.652922885492444">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-462</name>
+      <cmt>Spé 2 VV2017 Le paradou-46</cmt>
+      <desc>Spé 2 VV2017 Le paradou-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287357240915298" lon="5.652712751179934">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-472</name>
+      <cmt>Spé 2 VV2017 Le paradou-47</cmt>
+      <desc>Spé 2 VV2017 Le paradou-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287318265065551" lon="5.651539703831077">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-482</name>
+      <cmt>Spé 2 VV2017 Le paradou-48</cmt>
+      <desc>Spé 2 VV2017 Le paradou-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287317929789424" lon="5.651457728818059">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-492</name>
+      <cmt>Spé 2 VV2017 Le paradou-49</cmt>
+      <desc>Spé 2 VV2017 Le paradou-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.287642057985067" lon="5.651033939793706">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-502</name>
+      <cmt>Spé 2 VV2017 Le paradou-50</cmt>
+      <desc>Spé 2 VV2017 Le paradou-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.288985174149275" lon="5.650031128898263">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-513</name>
+      <cmt>Spé 2 VV2017 Le paradou-51</cmt>
+      <desc>Spé 2 VV2017 Le paradou-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.289151135832071" lon="5.649809595197439">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-522</name>
+      <cmt>Spé 2 VV2017 Le paradou-52</cmt>
+      <desc>Spé 2 VV2017 Le paradou-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.289578696712852" lon="5.649240799248219">
+      <time>2017-06-11T14:42:59Z</time>
+      <name>Spé 2 VV2017 Le paradou-532</name>
+      <cmt>Spé 2 VV2017 Le paradou-53</cmt>
+      <desc>Spé 2 VV2017 Le paradou-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

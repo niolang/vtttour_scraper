@@ -1,0 +1,1635 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2017-01-22T10:41:38Z</time>
+    <bounds maxlat="43.25500225648284" maxlon="5.670609623193741" minlat="43.234961796551943" minlon="5.661306465044618" />
+  </metadata>
+
+  <rte>
+    <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3 2</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.234961796551943" lon="5.670609623193741">
+      <ele>394.03125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D32</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.235471164807677" lon="5.670291278511286">
+      <ele>395.30859375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1101</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.236640775576234" lon="5.670218523591757">
+      <ele>398.94140625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2101</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.238087072968483" lon="5.670500490814447">
+      <ele>410.26953125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3100</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.238552352413535" lon="5.669763721525669">
+      <ele>413.3515625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-412</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-4</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.238810179755092" lon="5.668863337486982">
+      <ele>416.2734375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-512</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-5</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.238898273557425" lon="5.668335780501366">
+      <ele>417.19140625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-611</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-6</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.239218965172768" lon="5.668035624548793">
+      <ele>419.7109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-711</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-7</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.240476585924625" lon="5.666916891932488">
+      <ele>414.19140625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-811</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-8</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.240753272548318" lon="5.66608926281333">
+      <ele>378.6015625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-911</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-9</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243060642853379" lon="5.665134228765965">
+      <ele>422.4296875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1011</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-10</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243456771597266" lon="5.66477045416832">
+      <ele>418.7734375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1111</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-11</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243852900341153" lon="5.664879586547613">
+      <ele>410.921875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1211</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-12</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243850050494075" lon="5.66486919298768">
+      <ele>410.9296875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1311</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-13</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245117980986834" lon="5.665388535708189">
+      <ele>387.34765625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1411</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-14</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245098954066634" lon="5.665277224034071">
+      <ele>387.234375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1511</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-15</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245035083964467" lon="5.665062060579658">
+      <ele>387.56640625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1611</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-16</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244945397600532" lon="5.664856787770987">
+      <ele>388.375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1711</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-17</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244861997663975" lon="5.664684707298875">
+      <ele>387.66015625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1811</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-18</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244732245802879" lon="5.664473231881857">
+      <ele>387.51171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1911</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-19</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244689414277673" lon="5.664410702884197">
+      <ele>387.7109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2011</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-20</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244459666311741" lon="5.664117000997067">
+      <ele>387.73046875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2111</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-21</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244419433176517" lon="5.66403703764081">
+      <ele>386.97265625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2211</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-22</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244061525911093" lon="5.663281409069896">
+      <ele>378.49609375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2311</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-23</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24397636577487" lon="5.663113854825497">
+      <ele>376.796875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2411</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-24</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24328494258225" lon="5.662364345043898">
+      <ele>370.140625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2511</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-25</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243045387789607" lon="5.661996714770794">
+      <ele>362.03515625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2611</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-26</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.242963748052716" lon="5.66184408031404">
+      <ele>360.61328125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2711</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-27</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.242895854637027" lon="5.661755064502358">
+      <ele>360.0703125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2811</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-28</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.242839612066746" lon="5.661638807505369">
+      <ele>358.37109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-2911</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-29</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.242728384211659" lon="5.661336556077004">
+      <ele>355.9921875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3011</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-30</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.242729138582945" lon="5.661306465044618">
+      <ele>355.66015625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3111</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-31</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243014710023999" lon="5.661444095894694">
+      <ele>352.07421875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3211</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-32</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243062570691109" lon="5.661503607407212">
+      <ele>351.4765625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3311</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-33</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243182264268398" lon="5.661667557433248">
+      <ele>352.8828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3411</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-34</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24325954541564" lon="5.66175271756947">
+      <ele>354.08984375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3511</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-35</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.243392817676067" lon="5.661811726167798">
+      <ele>354.26171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3611</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-36</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244352461770177" lon="5.661642160266638">
+      <ele>345.3828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3711</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-37</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24439856223762" lon="5.661638472229242">
+      <ele>345.7578125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3811</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-38</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24447475373745" lon="5.661706952378154">
+      <ele>346.4453125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-3911</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-39</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244672818109393" lon="5.661864951252937">
+      <ele>346.18359375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-402</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-40</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.244762169197202" lon="5.661964612081647">
+      <ele>344.78125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-413</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-41</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24495118111372" lon="5.662313466891646">
+      <ele>345</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-422</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-42</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24514614418149" lon="5.662660980597138">
+      <ele>345.23828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-432</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-43</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245300706475973" lon="5.662684282287955">
+      <ele>344.546875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-442</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-44</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245536657050252" lon="5.662685120478272">
+      <ele>343.1328125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-452</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-45</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.2457569334656" lon="5.662768017500639">
+      <ele>342.48828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-462</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-46</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.245905544608831" lon="5.662843538448215">
+      <ele>342.0078125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-472</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-47</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24601199477911" lon="5.662941941991448">
+      <ele>342.25390625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-482</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-48</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24595533311367" lon="5.662800623103976">
+      <ele>341.90234375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-492</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-49</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.246007384732366" lon="5.662688724696636">
+      <ele>341.78125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-502</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-50</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.246794864535332" lon="5.662774974480271">
+      <ele>349.171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-513</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-51</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.246835516765714" lon="5.662858793511987">
+      <ele>348.7734375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-522</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-52</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24711287394166" lon="5.663448041304946">
+      <ele>342.4921875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-532</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-53</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.247467679902911" lon="5.663722129538655">
+      <ele>336.59375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-542</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-54</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.247826090082526" lon="5.663878116756678">
+      <ele>333.5546875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-552</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-55</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.247955422848463" lon="5.663901502266526">
+      <ele>333.80859375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-562</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-56</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248160276561975" lon="5.663870321586728">
+      <ele>336.1640625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-572</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-57</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248356999829412" lon="5.663761105388403">
+      <ele>340.48828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-581</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-58</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248529499396682" lon="5.663687093183398">
+      <ele>343.42578125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-591</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-59</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248583981767297" lon="5.663709221407771">
+      <ele>343.7578125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-601</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-60</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248742064461112" lon="5.663653146475554">
+      <ele>347.87109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-612</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-61</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248779196292162" lon="5.663675609976053">
+      <ele>348.9140625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-621</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-62</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248766707256436" lon="5.664061261340976">
+      <ele>344.09765625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-631</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-63</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248723288998008" lon="5.66437222994864">
+      <ele>338.84375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-641</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-64</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248711302876472" lon="5.664492510259152">
+      <ele>335.48046875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-651</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-65</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248736616224051" lon="5.664611533284187">
+      <ele>332.51171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-661</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-66</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248800737783313" lon="5.664782021194696">
+      <ele>328.1328125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-671</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-67</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.248813394457102" lon="5.664798114448786">
+      <ele>327.71875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-681</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-68</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.249288648366928" lon="5.664949240162969">
+      <ele>323.66796875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-691</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-69</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.24978519231081" lon="5.664949910715222">
+      <ele>322.125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-701</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-70</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25033345259726" lon="5.664923759177327">
+      <ele>322.05078125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-712</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-71</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250444680452347" lon="5.665006823837757">
+      <ele>320.3046875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-721</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-72</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250421630218625" lon="5.665064994245768">
+      <ele>318.90234375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-731</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-73</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250399837270379" lon="5.665138754993677">
+      <ele>317.13671875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-741</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-74</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250402435660362" lon="5.665217377245426">
+      <ele>315.30078125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-751</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-75</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250524140894413" lon="5.665305890142918">
+      <ele>313.4453125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-761</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-76</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250798732042313" lon="5.665415022522211">
+      <ele>311.38671875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-771</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-77</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.250925969332457" lon="5.665451232343912">
+      <ele>311.76953125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-781</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-78</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.251121938228607" lon="5.665661450475454">
+      <ele>311.16796875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-791</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-79</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25133366510272" lon="5.665871165692806">
+      <ele>309.703125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-801</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-80</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.251474564895034" lon="5.665969653055072">
+      <ele>308.60546875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-812</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-81</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.251511109992862" lon="5.666024470701814">
+      <ele>302.5078125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-821</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-82</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.251577578485012" lon="5.666115581989288">
+      <ele>286.66015625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-831</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-83</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25184915214777" lon="5.666377851739526">
+      <ele>240.859375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-841</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-84</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25219415128231" lon="5.666624195873737">
+      <ele>302.7578125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-851</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-85</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-85</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252271180972457" lon="5.666765598580241">
+      <ele>302.57421875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-861</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-86</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-86</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252293057739735" lon="5.66677724942565">
+      <ele>302.7265625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-871</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-87</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-87</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252356508746743" lon="5.666797868907452">
+      <ele>303.26171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-881</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-88</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-88</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252435298636556" lon="5.667084027081728">
+      <ele>302.05078125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-891</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-89</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-89</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252451727166772" lon="5.667517874389887">
+      <ele>298.9921875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-901</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-90</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-90</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252504533156753" lon="5.667827250435948">
+      <ele>297.0859375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-912</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-91</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-91</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252530265599489" lon="5.668123383074999">
+      <ele>294.7421875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-921</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-92</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-92</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25251174159348" lon="5.668242489919066">
+      <ele>293.28125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-931</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-93</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-93</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252523643895984" lon="5.66838389262557">
+      <ele>291.40234375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-941</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-94</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-94</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252533199265599" lon="5.668543735519052">
+      <ele>289.2109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-951</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-95</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-95</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252522889524698" lon="5.668698633089662">
+      <ele>286.8828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-961</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-96</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-96</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252528673037887" lon="5.668819500133395">
+      <ele>285.5703125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-971</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-97</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-97</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252566223964095" lon="5.668922262266278">
+      <ele>284.73828125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-981</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-98</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-98</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252582317218184" lon="5.668928548693657">
+      <ele>284.6171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-991</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-99</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-99</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.252682816237211" lon="5.669075902551413">
+      <ele>283.1328125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1001</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-100</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-100</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25279320590198" lon="5.669151172041893">
+      <ele>282.16796875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1012</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-101</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-101</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253057487308979" lon="5.669142454862595">
+      <ele>281.1171875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1021</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-102</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-102</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253408940508962" lon="5.669147148728371">
+      <ele>276.578125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1031</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-103</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-103</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25350658968091" lon="5.669161900877953">
+      <ele>275.1953125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1041</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-104</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-104</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253636006265879" lon="5.669149328023195">
+      <ele>273.44921875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1051</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-105</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-105</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253701468929648" lon="5.669164415448904">
+      <ele>272.6875</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1061</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-106</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-106</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253889475017786" lon="5.669433055445552">
+      <ele>271.09375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1071</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-107</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-107</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.253972958773375" lon="5.669564986601472">
+      <ele>270.87109375</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1081</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-108</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-108</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.254057113081217" lon="5.669606812298298">
+      <ele>269.97265625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1091</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-109</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-109</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.254191055893898" lon="5.66963329911232">
+      <ele>268.25390625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1102</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-110</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-110</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25442373752594" lon="5.669767744839191">
+      <ele>266.75390625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1112</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-111</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-111</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.254684330895543" lon="5.669784508645535">
+      <ele>264.47265625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1121</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-112</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-112</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.254758343100548" lon="5.669808145612478">
+      <ele>263.62890625</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1131</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-113</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-113</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.25500225648284" lon="5.670246854424477">
+      <ele>265.203125</ele>
+      <time>2017-01-22T10:41:24Z</time>
+      <name>Descente Grand Caunet au Pkg Font Blanche autour de la D3-1141</name>
+      <cmt>Descente Grand Caunet au Pkg Font Blanche autour de la D3-114</cmt>
+      <desc>Descente Grand Caunet au Pkg Font Blanche autour de la D3-114</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

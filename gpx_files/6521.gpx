@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtensions/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2013-12-18T16:38:24Z</time>
+    <bounds maxlat="45.269557982683182" maxlon="5.845447992905974" minlat="45.265579260885715" minlon="5.840840796008706" />
+  </metadata>
+
+  <trk>
+    <name>Parking Attero &gt; Réservoire</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.265579260885715" lon="5.840840796008706">
+        <ele>525.29998779296898</ele>
+        <time>2013-04-14T08:37:52Z</time>
+      </trkpt>
+      <trkpt lat="45.265766177326441" lon="5.84129098802805">
+        <ele>523.79998779296898</ele>
+        <time>2013-04-14T08:37:58Z</time>
+      </trkpt>
+      <trkpt lat="45.266090389341116" lon="5.841647135093808">
+        <ele>524.09997558593795</ele>
+        <time>2013-04-14T08:38:04Z</time>
+      </trkpt>
+      <trkpt lat="45.266342181712389" lon="5.841916110366583">
+        <ele>524</ele>
+        <time>2013-04-14T08:38:09Z</time>
+      </trkpt>
+      <trkpt lat="45.266624484211206" lon="5.842265132814646">
+        <ele>524.29998779296898</ele>
+        <time>2013-04-14T08:38:15Z</time>
+      </trkpt>
+      <trkpt lat="45.266788518056273" lon="5.842507872730494">
+        <ele>525.70001220703102</ele>
+        <time>2013-04-14T08:38:22Z</time>
+      </trkpt>
+      <trkpt lat="45.266921957954764" lon="5.842821104452014">
+        <ele>525.40002441406205</ele>
+        <time>2013-04-14T08:38:27Z</time>
+      </trkpt>
+      <trkpt lat="45.267093619331717" lon="5.842850189656019">
+        <ele>526.70001220703102</ele>
+        <time>2013-04-14T08:38:31Z</time>
+      </trkpt>
+      <trkpt lat="45.267295874655247" lon="5.842923196032643">
+        <ele>527.5</ele>
+        <time>2013-04-14T08:38:37Z</time>
+      </trkpt>
+      <trkpt lat="45.267478935420513" lon="5.843181107193232">
+        <ele>527.90002441406205</ele>
+        <time>2013-04-14T08:38:42Z</time>
+      </trkpt>
+      <trkpt lat="45.267669707536697" lon="5.843557873740792">
+        <ele>528.40002441406205</ele>
+        <time>2013-04-14T08:38:48Z</time>
+      </trkpt>
+      <trkpt lat="45.267765009775758" lon="5.84375811740756">
+        <ele>528.59997558593795</ele>
+        <time>2013-04-14T08:38:51Z</time>
+      </trkpt>
+      <trkpt lat="45.267955781891942" lon="5.844159107655287">
+        <ele>527.59997558593795</ele>
+        <time>2013-04-14T08:38:57Z</time>
+      </trkpt>
+      <trkpt lat="45.26813892647624" lon="5.84440897218883">
+        <ele>526.79998779296898</ele>
+        <time>2013-04-14T08:39:02Z</time>
+      </trkpt>
+      <trkpt lat="45.26845165528357" lon="5.844422802329063">
+        <ele>527.29998779296898</ele>
+        <time>2013-04-14T08:39:07Z</time>
+      </trkpt>
+      <trkpt lat="45.26878735050559" lon="5.844571078196168">
+        <ele>525.70001220703102</ele>
+        <time>2013-04-14T08:39:13Z</time>
+      </trkpt>
+      <trkpt lat="45.269092535600066" lon="5.844800909981132">
+        <ele>524.20001220703102</ele>
+        <time>2013-04-14T08:39:20Z</time>
+      </trkpt>
+      <trkpt lat="45.269374838098884" lon="5.845129983499646">
+        <ele>522.59997558593795</ele>
+        <time>2013-04-14T08:39:25Z</time>
+      </trkpt>
+      <trkpt lat="45.269557982683182" lon="5.845447992905974">
+        <ele>522.20001220703102</ele>
+        <time>2013-04-14T08:39:30Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

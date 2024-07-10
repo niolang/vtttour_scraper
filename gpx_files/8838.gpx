@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-01-03T18:16:15Z</time>
+    <bounds maxlat="43.438395448029041" maxlon="5.655513983219862" minlat="43.429738450795412" minlon="5.648720702156425" />
+  </metadata>
+
+  <rte>
+    <name>Vallat de l'Auriguesse</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.429738450795412" lon="5.64900727942586">
+      <ele>310.84375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.430119073018432" lon="5.648720702156425">
+      <ele>305.9453125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-1</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-1</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.43075567856431" lon="5.649031922221184">
+      <ele>307.9296875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-2</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-2</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.431187430396676" lon="5.649335598573089">
+      <ele>305.15234375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-3</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-3</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.431414663791656" lon="5.649418411776424">
+      <ele>304.78125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-4</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-4</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.431828897446394" lon="5.649406090378761">
+      <ele>305.328125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-5</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-5</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.432192923501134" lon="5.649276422336698">
+      <ele>302.91796875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-6</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-6</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.433592030778527" lon="5.649670036509633">
+      <ele>303.1875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-7</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-7</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.433802416548133" lon="5.649720998480916">
+      <ele>302.6328125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-8</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-8</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.435282744467258" lon="5.650026937946677">
+      <ele>293.8359375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-9</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-9</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.436080869287252" lon="5.65053379163146">
+      <ele>293.24609375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-10</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-10</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437472768127918" lon="5.650008413940668">
+      <ele>295.39453125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-11</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-11</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437650045379996" lon="5.650772256776691">
+      <ele>295.14453125</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-12</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-12</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437558682635427" lon="5.651386817917228">
+      <ele>292.01171875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-13</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-13</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437761692330241" lon="5.651756376028061">
+      <ele>295.96484375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-14</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-14</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437538901343942" lon="5.652717780321837">
+      <ele>289.71875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-15</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-15</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437643926590681" lon="5.653763171285391">
+      <ele>290.81640625</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-16</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-16</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437675442546606" lon="5.654429029673338">
+      <ele>287.46484375</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-17</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-17</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.437888929620385" lon="5.65507267601788">
+      <ele>284.6015625</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-18</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-18</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.438395448029041" lon="5.655513983219862">
+      <ele>283.046875</ele>
+      <time>2016-01-03T18:04:21Z</time>
+      <name>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-19</name>
+      <cmt>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-19</cmt>
+      <desc>Desc Vallat de l'Auriguesse - remontée singles Cancabi - Dalbessy-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

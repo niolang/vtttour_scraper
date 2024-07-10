@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-09T15:00:02Z</time>
+    <bounds maxlat="43.351951623335481" maxlon="5.776255382224917" minlat="43.345280215144157" minlon="5.768308499827981" />
+  </metadata>
+
+  <rte>
+    <name>chemin des rois</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.345280215144157" lon="5.77285316772759">
+      <ele>700.7265625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois</name>
+      <cmt>chemin des rois</cmt>
+      <desc>chemin des rois</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.345907684415579" lon="5.773053495213389">
+      <ele>693.1953125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-1</name>
+      <cmt>chemin des rois-1</cmt>
+      <desc>chemin des rois-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346323426812887" lon="5.773852458223701">
+      <ele>686.3828125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-2</name>
+      <cmt>chemin des rois-2</cmt>
+      <desc>chemin des rois-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.346728775650263" lon="5.774306003004313">
+      <ele>679.48828125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-3</name>
+      <cmt>chemin des rois-3</cmt>
+      <desc>chemin des rois-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347083581611514" lon="5.775317531079054">
+      <ele>662.9375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-4</name>
+      <cmt>chemin des rois-4</cmt>
+      <desc>chemin des rois-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347678696736693" lon="5.775033133104444">
+      <ele>650.16015625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-5</name>
+      <cmt>chemin des rois-5</cmt>
+      <desc>chemin des rois-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.347991677001119" lon="5.774477161467075">
+      <ele>647.91015625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-6</name>
+      <cmt>chemin des rois-6</cmt>
+      <desc>chemin des rois-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348172809928656" lon="5.774169461801648">
+      <ele>642.00390625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-7</name>
+      <cmt>chemin des rois-7</cmt>
+      <desc>chemin des rois-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348362576216459" lon="5.773791102692485">
+      <ele>634.71484375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-8</name>
+      <cmt>chemin des rois-8</cmt>
+      <desc>chemin des rois-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348466847091913" lon="5.773482229560614">
+      <ele>631</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-9</name>
+      <cmt>chemin des rois-9</cmt>
+      <desc>chemin des rois-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348671281710267" lon="5.771060781553388">
+      <ele>614.45703125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-10</name>
+      <cmt>chemin des rois-10</cmt>
+      <desc>chemin des rois-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348686955869198" lon="5.771021470427513">
+      <ele>613.328125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-11</name>
+      <cmt>chemin des rois-11</cmt>
+      <desc>chemin des rois-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348565082997084" lon="5.768699180334806">
+      <ele>592.98828125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-12</name>
+      <cmt>chemin des rois-12</cmt>
+      <desc>chemin des rois-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.348694331943989" lon="5.768308499827981">
+      <ele>584.484375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-13</name>
+      <cmt>chemin des rois-13</cmt>
+      <desc>chemin des rois-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.34932766854763" lon="5.770001308992505">
+      <ele>569.24609375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-14</name>
+      <cmt>chemin des rois-14</cmt>
+      <desc>chemin des rois-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349285256117582" lon="5.76890260912478">
+      <ele>558.88671875</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-15</name>
+      <cmt>chemin des rois-15</cmt>
+      <desc>chemin des rois-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349636876955628" lon="5.769744403660297">
+      <ele>548.875</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-16</name>
+      <cmt>chemin des rois-16</cmt>
+      <desc>chemin des rois-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349670153111219" lon="5.769466795027256">
+      <ele>544.4375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-17</name>
+      <cmt>chemin des rois-17</cmt>
+      <desc>chemin des rois-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.349716840311885" lon="5.769590260460973">
+      <ele>542.95703125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-18</name>
+      <cmt>chemin des rois-18</cmt>
+      <desc>chemin des rois-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350135767832398" lon="5.770808150991797">
+      <ele>528.3125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-19</name>
+      <cmt>chemin des rois-19</cmt>
+      <desc>chemin des rois-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350360654294491" lon="5.771777015179396">
+      <ele>517.65625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-20</name>
+      <cmt>chemin des rois-20</cmt>
+      <desc>chemin des rois-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350832555443048" lon="5.774033339694142">
+      <ele>482.0390625</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-21</name>
+      <cmt>chemin des rois-21</cmt>
+      <desc>chemin des rois-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350719232112169" lon="5.776255382224917">
+      <ele>473.05859375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-22</name>
+      <cmt>chemin des rois-22</cmt>
+      <desc>chemin des rois-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.350835321471095" lon="5.776233254000545">
+      <ele>468.5</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-23</name>
+      <cmt>chemin des rois-23</cmt>
+      <desc>chemin des rois-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351336978375912" lon="5.775580974295735">
+      <ele>453.74609375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-24</name>
+      <cmt>chemin des rois-24</cmt>
+      <desc>chemin des rois-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351634200662374" lon="5.775109911337495">
+      <ele>447.40234375</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-25</name>
+      <cmt>chemin des rois-25</cmt>
+      <desc>chemin des rois-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351679379120469" lon="5.775020224973559">
+      <ele>446.45703125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-26</name>
+      <cmt>chemin des rois-26</cmt>
+      <desc>chemin des rois-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351826313883066" lon="5.775056686252356">
+      <ele>443.10546875</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-27</name>
+      <cmt>chemin des rois-27</cmt>
+      <desc>chemin des rois-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.351951623335481" lon="5.77462837100029">
+      <ele>441.0078125</ele>
+      <time>2016-03-09T14:59:45Z</time>
+      <name>chemin des rois-28</name>
+      <cmt>chemin des rois-28</cmt>
+      <desc>chemin des rois-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

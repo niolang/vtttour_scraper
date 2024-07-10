@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2011-12-20T20:36:26Z</time>
+    <bounds maxlat="43.6196714" maxlon="6.9431233" minlat="43.5937989" minlon="6.9366002"/>
+  </metadata>
+
+  <wpt lat="43.6007881" lon="6.9431233">
+    <ele>139.5781250</ele>
+    <time>2011-04-19T16:33:20Z</time>
+    <name>1</name>
+    <cmt>Chemin</cmt>
+    <desc>Chemin</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6122902" lon="6.9366002">
+    <ele>109.8867188</ele>
+    <time>2011-04-19T16:33:34Z</time>
+    <name>2</name>
+    <cmt>Route</cmt>
+    <desc>Route</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6195137" lon="6.9408418">
+    <ele>116.1992188</ele>
+    <time>2011-04-19T16:34:00Z</time>
+    <name>3</name>
+    <cmt>Chemin</cmt>
+    <desc>Chemin</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6193663" lon="6.9370995">
+    <ele>145.8398438</ele>
+    <time>2011-04-19T16:34:05Z</time>
+    <name>4</name>
+    <cmt>Chemin</cmt>
+    <desc>Chemin</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6174809" lon="6.9409349">
+    <ele>135.8828125</ele>
+    <time>2011-04-19T16:34:11Z</time>
+    <name>5</name>
+    <cmt>Chemin</cmt>
+    <desc>Chemin</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6130834" lon="6.9411063">
+    <ele>119.7773438</ele>
+    <time>2011-04-19T16:34:19Z</time>
+    <name>6</name>
+    <cmt>Ruines</cmt>
+    <desc>Ruines</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.6042684" lon="6.9410225">
+    <ele>121.6640625</ele>
+    <time>2011-04-19T16:34:29Z</time>
+    <name>7</name>
+    <cmt>Chemin</cmt>
+    <desc>Chemin</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="43.5937989" lon="6.9376190">
+    <ele>56.2929688</ele>
+    <time>2011-04-19T16:34:39Z</time>
+    <name>8</name>
+    <cmt>Route</cmt>
+    <desc>Route</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>Tracé 001</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.6196714" lon="6.9369458">
+        <ele>144.3352051</ele>
+        <time>2011-04-19T12:27:37Z</time>
+      </trkpt>
+      <trkpt lat="43.6192576" lon="6.9372693">
+        <ele>143.3736572</ele>
+        <time>2011-04-19T12:27:51Z</time>
+      </trkpt>
+      <trkpt lat="43.6190186" lon="6.9376430">
+        <ele>145.2963867</ele>
+        <time>2011-04-19T12:28:03Z</time>
+      </trkpt>
+      <trkpt lat="43.6189078" lon="6.9376443">
+        <ele>146.2578125</ele>
+        <time>2011-04-19T12:28:07Z</time>
+      </trkpt>
+      <trkpt lat="43.6188704" lon="6.9376088">
+        <ele>147.2189941</ele>
+        <time>2011-04-19T12:28:09Z</time>
+      </trkpt>
+      <trkpt lat="43.6188303" lon="6.9375465">
+        <ele>147.2189941</ele>
+        <time>2011-04-19T12:28:12Z</time>
+      </trkpt>
+      <trkpt lat="43.6187754" lon="6.9375634">
+        <ele>146.7384033</ele>
+        <time>2011-04-19T12:28:24Z</time>
+      </trkpt>
+      <trkpt lat="43.6187749" lon="6.9375669">
+        <ele>146.7384033</ele>
+        <time>2011-04-19T12:28:26Z</time>
+      </trkpt>
+      <trkpt lat="43.6187781" lon="6.9376014">
+        <ele>146.2578125</ele>
+        <time>2011-04-19T12:28:28Z</time>
+      </trkpt>
+      <trkpt lat="43.6187085" lon="6.9376851">
+        <ele>144.8157959</ele>
+        <time>2011-04-19T12:28:33Z</time>
+      </trkpt>
+      <trkpt lat="43.6189413" lon="6.9376945">
+        <ele>140.9704590</ele>
+        <time>2011-04-19T12:28:36Z</time>
+      </trkpt>
+      <trkpt lat="43.6189413" lon="6.9376945">
+        <ele>140.9704590</ele>
+        <time>2011-04-19T12:28:37Z</time>
+      </trkpt>
+      <trkpt lat="43.6189413" lon="6.9376945">
+        <ele>139.0478516</ele>
+        <time>2011-04-19T12:28:38Z</time>
+      </trkpt>
+      <trkpt lat="43.6189413" lon="6.9376945">
+        <ele>135.2025146</ele>
+        <time>2011-04-19T12:28:41Z</time>
+      </trkpt>
+      <trkpt lat="43.6184943" lon="6.9380686">
+        <ele>135.2025146</ele>
+        <time>2011-04-19T12:28:42Z</time>
+      </trkpt>
+      <trkpt lat="43.6184669" lon="6.9383070">
+        <ele>132.3186035</ele>
+        <time>2011-04-19T12:28:46Z</time>
+      </trkpt>
+      <trkpt lat="43.6184655" lon="6.9383588">
+        <ele>130.3959961</ele>
+        <time>2011-04-19T12:28:47Z</time>
+      </trkpt>
+      <trkpt lat="43.6183785" lon="6.9384560">
+        <ele>128.9541016</ele>
+        <time>2011-04-19T12:28:51Z</time>
+      </trkpt>
+      <trkpt lat="43.6183264" lon="6.9385855">
+        <ele>125.5893555</ele>
+        <time>2011-04-19T12:28:55Z</time>
+      </trkpt>
+      <trkpt lat="43.6181825" lon="6.9385125">
+        <ele>123.1861572</ele>
+        <time>2011-04-19T12:29:00Z</time>
+      </trkpt>
+      <trkpt lat="43.6181506" lon="6.9384807">
+        <ele>121.7441406</ele>
+        <time>2011-04-19T12:29:02Z</time>
+      </trkpt>
+      <trkpt lat="43.6180949" lon="6.9384433">
+        <ele>118.3793945</ele>
+        <time>2011-04-19T12:29:04Z</time>
+      </trkpt>
+      <trkpt lat="43.6180580" lon="6.9384257">
+        <ele>118.3793945</ele>
+        <time>2011-04-19T12:29:05Z</time>
+      </trkpt>
+      <trkpt lat="43.6180010" lon="6.9383602">
+        <ele>116.4567871</ele>
+        <time>2011-04-19T12:29:07Z</time>
+      </trkpt>
+      <trkpt lat="43.6179126" lon="6.9383707">
+        <ele>114.5341797</ele>
+        <time>2011-04-19T12:29:10Z</time>
+      </trkpt>
+      <trkpt lat="43.6179021" lon="6.9384350">
+        <ele>114.0535889</ele>
+        <time>2011-04-19T12:29:12Z</time>
+      </trkpt>
+      <trkpt lat="43.6177930" lon="6.9384956">
+        <ele>112.1309814</ele>
+        <time>2011-04-19T12:29:16Z</time>
+      </trkpt>
+      <trkpt lat="43.6177219" lon="6.9386404">
+        <ele>107.8050537</ele>
+        <time>2011-04-19T12:29:19Z</time>
+      </trkpt>
+      <trkpt lat="43.6177631" lon="6.9388305">
+        <ele>105.4017334</ele>
+        <time>2011-04-19T12:29:22Z</time>
+      </trkpt>
+      <trkpt lat="43.6178025" lon="6.9389057">
+        <ele>106.3630371</ele>
+        <time>2011-04-19T12:29:24Z</time>
+      </trkpt>
+      <trkpt lat="43.6177943" lon="6.9389775">
+        <ele>106.3630371</ele>
+        <time>2011-04-19T12:29:26Z</time>
+      </trkpt>
+      <trkpt lat="43.6177903" lon="6.9390709">
+        <ele>104.9210205</ele>
+        <time>2011-04-19T12:29:28Z</time>
+      </trkpt>
+      <trkpt lat="43.6176818" lon="6.9392159">
+        <ele>101.5563965</ele>
+        <time>2011-04-19T12:29:32Z</time>
+      </trkpt>
+      <trkpt lat="43.6176637" lon="6.9392609">
+        <ele>101.5563965</ele>
+        <time>2011-04-19T12:29:33Z</time>
+      </trkpt>
+      <trkpt lat="43.6176826" lon="6.9394387">
+        <ele>100.5950928</ele>
+        <time>2011-04-19T12:29:40Z</time>
+      </trkpt>
+      <trkpt lat="43.6176999" lon="6.9394644">
+        <ele>99.6337891</ele>
+        <time>2011-04-19T12:29:41Z</time>
+      </trkpt>
+      <trkpt lat="43.6179360" lon="6.9396818">
+        <ele>99.6337891</ele>
+        <time>2011-04-19T12:29:51Z</time>
+      </trkpt>
+      <trkpt lat="43.6179935" lon="6.9397036">
+        <ele>99.1530762</ele>
+        <time>2011-04-19T12:29:53Z</time>
+      </trkpt>
+      <trkpt lat="43.6181300" lon="6.9397878">
+        <ele>101.5563965</ele>
+        <time>2011-04-19T12:29:59Z</time>
+      </trkpt>
+      <trkpt lat="43.6184246" lon="6.9399605">
+        <ele>101.0756836</ele>
+        <time>2011-04-19T12:30:08Z</time>
+      </trkpt>
+      <trkpt lat="43.6184633" lon="6.9400873">
+        <ele>102.0371094</ele>
+        <time>2011-04-19T12:30:12Z</time>
+      </trkpt>
+      <trkpt lat="43.6184251" lon="6.9402121">
+        <ele>99.1530762</ele>
+        <time>2011-04-19T12:30:15Z</time>
+      </trkpt>
+      <trkpt lat="43.6183620" lon="6.9403124">
+        <ele>98.1918945</ele>
+        <time>2011-04-19T12:30:17Z</time>
+      </trkpt>
+      <trkpt lat="43.6182226" lon="6.9403140">
+        <ele>96.2692871</ele>
+        <time>2011-04-19T12:30:20Z</time>
+      </trkpt>
+      <trkpt lat="43.6180138" lon="6.9403078">
+        <ele>96.7498779</ele>
+        <time>2011-04-19T12:30:25Z</time>
+      </trkpt>
+      <trkpt lat="43.6179015" lon="6.9402656">
+        <ele>96.2692871</ele>
+        <time>2011-04-19T12:30:28Z</time>
+      </trkpt>
+      <trkpt lat="43.6175689" lon="6.9401779">
+        <ele>93.8658447</ele>
+        <time>2011-04-19T12:30:35Z</time>
+      </trkpt>
+      <trkpt lat="43.6174053" lon="6.9401561">
+        <ele>94.3465576</ele>
+        <time>2011-04-19T12:30:38Z</time>
+      </trkpt>
+      <trkpt lat="43.6172130" lon="6.9401407">
+        <ele>93.8658447</ele>
+        <time>2011-04-19T12:30:41Z</time>
+      </trkpt>
+      <trkpt lat="43.6168857" lon="6.9403196">
+        <ele>95.3077393</ele>
+        <time>2011-04-19T12:30:46Z</time>
+      </trkpt>
+      <trkpt lat="43.6167111" lon="6.9404592">
+        <ele>95.7884521</ele>
+        <time>2011-04-19T12:30:50Z</time>
+      </trkpt>
+      <trkpt lat="43.6165550" lon="6.9405321">
+        <ele>98.1918945</ele>
+        <time>2011-04-19T12:30:54Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

@@ -1,0 +1,1130 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-05-03T06:47:31Z</time>
+    <bounds maxlat="43.415435403585434" maxlon="5.685121715068817" minlat="43.405849356204271" minlon="5.653217257931829" />
+  </metadata>
+
+  <rte>
+    <name>Tracé 069</name>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="43.4144027531147" lon="5.655711209401488">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069</name>
+      <cmt>Tracé 069</cmt>
+      <desc>Tracé 069</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414843305945396" lon="5.655052559450269">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-1</name>
+      <cmt>Tracé 069-1</cmt>
+      <desc>Tracé 069-1</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414880353957415" lon="5.654866900295019">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-2</name>
+      <cmt>Tracé 069-2</cmt>
+      <desc>Tracé 069-2</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415119992569089" lon="5.653360085561872">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-3</name>
+      <cmt>Tracé 069-3</cmt>
+      <desc>Tracé 069-3</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415119489654899" lon="5.653217257931829">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-4</name>
+      <cmt>Tracé 069-4</cmt>
+      <desc>Tracé 069-4</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415254270657897" lon="5.653223963454366">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-5</name>
+      <cmt>Tracé 069-5</cmt>
+      <desc>Tracé 069-5</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415361056104302" lon="5.65360919572413">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-6</name>
+      <cmt>Tracé 069-6</cmt>
+      <desc>Tracé 069-6</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415407156571746" lon="5.653839278966188">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-7</name>
+      <cmt>Tracé 069-7</cmt>
+      <desc>Tracé 069-7</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415435403585434" lon="5.654249489307404">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-8</name>
+      <cmt>Tracé 069-8</cmt>
+      <desc>Tracé 069-8</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415337838232517" lon="5.654399106279016">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-9</name>
+      <cmt>Tracé 069-9</cmt>
+      <desc>Tracé 069-9</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415293749421835" lon="5.654544197022915">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-10</name>
+      <cmt>Tracé 069-10</cmt>
+      <desc>Tracé 069-10</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415295844897628" lon="5.654743937775493">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-11</name>
+      <cmt>Tracé 069-11</cmt>
+      <desc>Tracé 069-11</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.415210600942373" lon="5.65484250895679">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-12</name>
+      <cmt>Tracé 069-12</cmt>
+      <desc>Tracé 069-12</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414712715893984" lon="5.65599569119513">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-13</name>
+      <cmt>Tracé 069-13</cmt>
+      <desc>Tracé 069-13</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414596877992153" lon="5.656403722241521">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-14</name>
+      <cmt>Tracé 069-14</cmt>
+      <desc>Tracé 069-14</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414529236033559" lon="5.656670602038503">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-15</name>
+      <cmt>Tracé 069-15</cmt>
+      <desc>Tracé 069-15</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.414185242727399" lon="5.658127460628748">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-16</name>
+      <cmt>Tracé 069-16</cmt>
+      <desc>Tracé 069-16</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.413886427879333" lon="5.658140787854791">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-17</name>
+      <cmt>Tracé 069-17</cmt>
+      <desc>Tracé 069-17</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.413150077685714" lon="5.659419363364577">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-18</name>
+      <cmt>Tracé 069-18</cmt>
+      <desc>Tracé 069-18</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412855621427298" lon="5.659497985616326">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-19</name>
+      <cmt>Tracé 069-19</cmt>
+      <desc>Tracé 069-19</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412778088822961" lon="5.659588007256389">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-20</name>
+      <cmt>Tracé 069-20</cmt>
+      <desc>Tracé 069-20</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412417499348521" lon="5.65989931114018">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-21</name>
+      <cmt>Tracé 069-21</cmt>
+      <desc>Tracé 069-21</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412131844088435" lon="5.660350508987904">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-22</name>
+      <cmt>Tracé 069-22</cmt>
+      <desc>Tracé 069-22</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412079541012645" lon="5.660921400412917">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-23</name>
+      <cmt>Tracé 069-23</cmt>
+      <desc>Tracé 069-23</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.412065207958221" lon="5.660956101492047">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-24</name>
+      <cmt>Tracé 069-24</cmt>
+      <desc>Tracé 069-24</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410274414345622" lon="5.660708416253328">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-25</name>
+      <cmt>Tracé 069-25</cmt>
+      <desc>Tracé 069-25</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410245832055807" lon="5.660790055990219">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-26</name>
+      <cmt>Tracé 069-26</cmt>
+      <desc>Tracé 069-26</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410180285573006" lon="5.661273021250963">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-27</name>
+      <cmt>Tracé 069-27</cmt>
+      <desc>Tracé 069-27</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409948525950313" lon="5.661729667335749">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-28</name>
+      <cmt>Tracé 069-28</cmt>
+      <desc>Tracé 069-28</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409869819879532" lon="5.661983387544751">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-29</name>
+      <cmt>Tracé 069-29</cmt>
+      <desc>Tracé 069-29</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40974417515099" lon="5.662227552384138">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-30</name>
+      <cmt>Tracé 069-30</cmt>
+      <desc>Tracé 069-30</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409523479640484" lon="5.662593673914671">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-31</name>
+      <cmt>Tracé 069-31</cmt>
+      <desc>Tracé 069-31</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409222653135657" lon="5.663211839273572">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-32</name>
+      <cmt>Tracé 069-32</cmt>
+      <desc>Tracé 069-32</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408953761681914" lon="5.663982890546322">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-33</name>
+      <cmt>Tracé 069-33</cmt>
+      <desc>Tracé 069-33</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408253118395805" lon="5.664971955120564">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-34</name>
+      <cmt>Tracé 069-34</cmt>
+      <desc>Tracé 069-34</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408063184469938" lon="5.666450522840023">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-35</name>
+      <cmt>Tracé 069-35</cmt>
+      <desc>Tracé 069-35</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408046839758754" lon="5.666595194488764">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-36</name>
+      <cmt>Tracé 069-36</cmt>
+      <desc>Tracé 069-36</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40791909955442" lon="5.666748499497771">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-37</name>
+      <cmt>Tracé 069-37</cmt>
+      <desc>Tracé 069-37</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407852547243237" lon="5.667418548837304">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-38</name>
+      <cmt>Tracé 069-38</cmt>
+      <desc>Tracé 069-38</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407835029065609" lon="5.667809145525098">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-39</name>
+      <cmt>Tracé 069-39</cmt>
+      <desc>Tracé 069-39</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407767303287983" lon="5.668106451630592">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-40</name>
+      <cmt>Tracé 069-40</cmt>
+      <desc>Tracé 069-40</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407759172841907" lon="5.668220948427916">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-41</name>
+      <cmt>Tracé 069-41</cmt>
+      <desc>Tracé 069-41</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407468488439918" lon="5.669018570333719">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-42</name>
+      <cmt>Tracé 069-42</cmt>
+      <desc>Tracé 069-42</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407334461808205" lon="5.670091956853867">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-43</name>
+      <cmt>Tracé 069-43</cmt>
+      <desc>Tracé 069-43</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407274363562465" lon="5.670375600457192">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-44</name>
+      <cmt>Tracé 069-44</cmt>
+      <desc>Tracé 069-44</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407248966395855" lon="5.670743398368359">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-45</name>
+      <cmt>Tracé 069-45</cmt>
+      <desc>Tracé 069-45</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407158190384507" lon="5.671405736356974">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-46</name>
+      <cmt>Tracé 069-46</cmt>
+      <desc>Tracé 069-46</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407122399657965" lon="5.671747718006373">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-47</name>
+      <cmt>Tracé 069-47</cmt>
+      <desc>Tracé 069-47</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407084848731756" lon="5.67195282317698">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-48</name>
+      <cmt>Tracé 069-48</cmt>
+      <desc>Tracé 069-48</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407044196501374" lon="5.672299079596996">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-49</name>
+      <cmt>Tracé 069-49</cmt>
+      <desc>Tracé 069-49</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406959371641278" lon="5.672915233299136">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-50</name>
+      <cmt>Tracé 069-50</cmt>
+      <desc>Tracé 069-50</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40689592063427" lon="5.673697432503104">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-51</name>
+      <cmt>Tracé 069-51</cmt>
+      <desc>Tracé 069-51</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406828194856644" lon="5.674050226807594">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-52</name>
+      <cmt>Tracé 069-52</cmt>
+      <desc>Tracé 069-52</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406765246763825" lon="5.674309311434627">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-53</name>
+      <cmt>Tracé 069-53</cmt>
+      <desc>Tracé 069-53</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406677655875683" lon="5.674795545637608">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-54</name>
+      <cmt>Tracé 069-54</cmt>
+      <desc>Tracé 069-54</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406811095774174" lon="5.675751334056258">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-55</name>
+      <cmt>Tracé 069-55</cmt>
+      <desc>Tracé 069-55</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.40672392398119" lon="5.676134219393134">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-56</name>
+      <cmt>Tracé 069-56</cmt>
+      <desc>Tracé 069-56</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406711099669337" lon="5.676451306790113">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-57</name>
+      <cmt>Tracé 069-57</cmt>
+      <desc>Tracé 069-57</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406834816560149" lon="5.676570162177086">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-58</name>
+      <cmt>Tracé 069-58</cmt>
+      <desc>Tracé 069-58</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406840432435274" lon="5.676597990095615">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-59</name>
+      <cmt>Tracé 069-59</cmt>
+      <desc>Tracé 069-59</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406780082732439" lon="5.677337776869535">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-60</name>
+      <cmt>Tracé 069-60</cmt>
+      <desc>Tracé 069-60</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406305415555835" lon="5.678501771762967">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-61</name>
+      <cmt>Tracé 069-61</cmt>
+      <desc>Tracé 069-61</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.405849356204271" lon="5.680845435708761">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-62</name>
+      <cmt>Tracé 069-62</cmt>
+      <desc>Tracé 069-62</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406004002317786" lon="5.681152632459998">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-63</name>
+      <cmt>Tracé 069-63</cmt>
+      <desc>Tracé 069-63</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406502306461334" lon="5.681221866980195">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-64</name>
+      <cmt>Tracé 069-64</cmt>
+      <desc>Tracé 069-64</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.406821405515075" lon="5.681413812562823">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-65</name>
+      <cmt>Tracé 069-65</cmt>
+      <desc>Tracé 069-65</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.407697901129723" lon="5.683377608656883">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-66</name>
+      <cmt>Tracé 069-66</cmt>
+      <desc>Tracé 069-66</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.4078717418015" lon="5.683999713510275">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-67</name>
+      <cmt>Tracé 069-67</cmt>
+      <desc>Tracé 069-67</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408050946891308" lon="5.684212446212769">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-68</name>
+      <cmt>Tracé 069-68</cmt>
+      <desc>Tracé 069-68</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408192517235875" lon="5.684262234717608">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-69</name>
+      <cmt>Tracé 069-69</cmt>
+      <desc>Tracé 069-69</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408282371237874" lon="5.68429266102612">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-70</name>
+      <cmt>Tracé 069-70</cmt>
+      <desc>Tracé 069-70</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408406674861908" lon="5.68435225635767">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-71</name>
+      <cmt>Tracé 069-71</cmt>
+      <desc>Tracé 069-71</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408544138073921" lon="5.684376144781709">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-72</name>
+      <cmt>Tracé 069-72</cmt>
+      <desc>Tracé 069-72</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408693922683597" lon="5.684530371800065">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-73</name>
+      <cmt>Tracé 069-73</cmt>
+      <desc>Tracé 069-73</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408764749765396" lon="5.684597594663501">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-74</name>
+      <cmt>Tracé 069-74</cmt>
+      <desc>Tracé 069-74</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408804563805461" lon="5.684644868597388">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-75</name>
+      <cmt>Tracé 069-75</cmt>
+      <desc>Tracé 069-75</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408863740041852" lon="5.684710834175348">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-76</name>
+      <cmt>Tracé 069-76</cmt>
+      <desc>Tracé 069-76</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.408965999260545" lon="5.684776296839118">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-77</name>
+      <cmt>Tracé 069-77</cmt>
+      <desc>Tracé 069-77</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409410659223795" lon="5.6850915402174">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-78</name>
+      <cmt>Tracé 069-78</cmt>
+      <desc>Tracé 069-78</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.409964451566339" lon="5.685121715068817">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-79</name>
+      <cmt>Tracé 069-79</cmt>
+      <desc>Tracé 069-79</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410099903121591" lon="5.68506128154695">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-80</name>
+      <cmt>Tracé 069-80</cmt>
+      <desc>Tracé 069-80</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410137454047799" lon="5.685026999562979">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-81</name>
+      <cmt>Tracé 069-81</cmt>
+      <desc>Tracé 069-81</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410238455981016" lon="5.684984419494867">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-82</name>
+      <cmt>Tracé 069-82</cmt>
+      <desc>Tracé 069-82</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410339122638106" lon="5.685046529397368">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-83</name>
+      <cmt>Tracé 069-83</cmt>
+      <desc>Tracé 069-83</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ShapingPoint />
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="43.410343145951629" lon="5.685101011767983">
+      <time>2016-05-03T06:23:22Z</time>
+      <name>Tracé 069-84</name>
+      <cmt>Tracé 069-84</cmt>
+      <desc>Tracé 069-84</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <trp:ViaPoint>
+          <trp:CalculationMode>Direct</trp:CalculationMode>
+        </trp:ViaPoint>
+        <gpxx:RoutePointExtension>
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>
